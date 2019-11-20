@@ -136,6 +136,22 @@ vg_data_fin = vg_data_fin.dropna()
 # joined table (vg_nonan) and the vg_98 table
 len(vg_data_fin.index) == sum([len(vg_nonan.index),len(vg_98.index)])
 
+# need to reindex dataframe having removed rows
+vg_data_fin = vg_data_fin.reset_index(drop=True)
+
+# last check, look at year_released for correctness by viewing all unique entries
+set(vg_data_fin.year_released)
+
+# inspect odd entries sequentially (e.g. 'Inc.', 'na')
+vg_data_fin[vg_data_fin['year_released'].str.contains("na")]
+
+# and replace as necessary using index
+vg_data_fin.iat[823,2] = '2017'
+
+# note above, despite years for PS4 relaese prior to when the system was released (<2013) 
+# leave them as it is the time the game first was released, reflecting it's development time
+# more accurately
+
 # write the corrected csv with added developer details as a csv
 vg_data_fin.to_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/ps4_videogame_data_dev.csv", index = False, header = True)
 
