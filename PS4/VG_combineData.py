@@ -55,7 +55,7 @@ def match_name(name, list_names, min_score=0):
 
 
 # need to generate dataframe of just the rows with missing values to fuzzy match
-vg_nans = vg_data[pd.isnull(vg_data['Status'])]
+vg_nans = vg_data[pd.isnull(vg_data['status'])]
 
 # confirm the correct number of rows in NaNs table as it should match the difference
 # in dataframe lengths found above
@@ -112,17 +112,17 @@ studio_devs
 # vg_98 as a dictionary to replace Developer column in original dataframe
 
 # create copy of original vg_csv data "Developer" column to replace values
-df1 = pd.DataFrame(vg_csv.Developer, columns = ['Developer'])
+df1 = pd.DataFrame(vg_csv.Developer, columns = ['developer'])
 
 # replace the names of df1 using the dictionary of vg_98
-df1['Developer'] = df1['Developer'].replace(vg_98.set_index('dev_name')['dev_match'].dropna())
+df1['developer'] = df1['developer'].replace(vg_98.set_index('dev_name')['dev_match'].dropna())
 
 # compare the original Developer names with the updated ones
 pd.concat([vg_csv.Developer, df1], axis=1, keys=['old', 'new'])
 
 # replace the original Developer column of vg_csv with corrected matched column
 
-vg_csv['Developer'] = df1['Developer']
+vg_csv['developer'] = df1['developer']
 
 vg_csv.head()
 

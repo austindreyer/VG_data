@@ -128,15 +128,15 @@ for page in pages:
 	
 # look at output
 gamescores_df = pd.DataFrame({
-	'Video Game': names,
-	'Developer': developers,
-	'Year': years,
-	'Avg Score': scores,
-	'# Reviews': reviews	
+	'vg_name': names,
+	'developer': developers,
+	'year_released': years,
+	'avg_score': scores,
+	'num_reviews': reviews	
 })
-gamescores_df = gamescores_df[['Video Game','Developer','Year','Avg Score','# Reviews']]
+gamescores_df = gamescores_df[['vg_name','developer','year_released','avg_score','num_reviews']]
 
 print(gamescores_df.info())
 
 # export shiny new data
-gamescores_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_scores.csv', index = None, header = True)
+gamescores_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/ps4_videogame_scores.csv', index = None, header = True)

@@ -1,4 +1,4 @@
-Video Game,Developer,Year,Avg Score,# Reviews,Country,Est.,Status
+vg_name,developer,year_released,avg_score,num_reviews,country,est,status
 .hack//G.U. Last Recode,Bandai,2017,77.0,7.0,Japan,1950,Subsidiary
 11-11: Memories Retold,Bandai,2018,79.0,14.0,Japan,1950,Subsidiary
 428: Shibuya Scramble,Spike Chunsoft,2018,85.83,12.0,Japan,2012,Subsidiary
