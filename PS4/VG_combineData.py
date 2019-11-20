@@ -74,9 +74,9 @@ vg_devs.head()
 match_list = []
 
 # use 
-for name in vg_nans.Developer:
+for name in vg_nans.developer:
     # use function to find best match, set threshold for strength of match (0-100)
-    match = match_name(name, vg_devs.Developer, 50)
+    match = match_name(name, vg_devs.developer, 50)
     
     # store iterated data in dict
     dict_ = {}
@@ -112,13 +112,13 @@ studio_devs
 # vg_98 as a dictionary to replace Developer column in original dataframe
 
 # create copy of original vg_csv data "Developer" column to replace values
-df1 = pd.DataFrame(vg_csv.Developer, columns = ['developer'])
+df1 = pd.DataFrame(vg_csv.developer, columns = ['developer'])
 
 # replace the names of df1 using the dictionary of vg_98
 df1['developer'] = df1['developer'].replace(vg_98.set_index('dev_name')['dev_match'].dropna())
 
 # compare the original Developer names with the updated ones
-pd.concat([vg_csv.Developer, df1], axis=1, keys=['old', 'new'])
+pd.concat([vg_csv.developer, df1], axis=1, keys=['old', 'new'])
 
 # replace the original Developer column of vg_csv with corrected matched column
 
@@ -137,5 +137,5 @@ vg_data_fin = vg_data_fin.dropna()
 len(vg_data_fin.index) == sum([len(vg_nonan.index),len(vg_98.index)])
 
 # write the corrected csv with added developer details as a csv
-vg_data_fin.to_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/PS4videogame_data_dev.csv", index = False, header = True)
+vg_data_fin.to_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/ps4_videogame_data_dev.csv", index = False, header = True)
 
