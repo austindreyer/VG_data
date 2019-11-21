@@ -23,117 +23,96 @@ print(response.text[:500])
 
 # extract data using beautifulsoup
 soup = BeautifulSoup(response.text, 'html.parser')
-#print(type(html_soup))
 
 vg_containers = soup.find_all('tr')
-#print(len(vg_containers))
 
-#print(vg_containers[0])
+# confirm the successful extraction of desired details
+# video game name
+first_name = vg_containers[1].find_all('td', limit=3)[-1]
+first_name_txt = ''.join(first_dev.find('a').contents[0])
 
-first_name = vg_containers[0].a.text
-#print(first_name)
-first_dev = vg_containers[0].find_all('td', limit=3)[-1]
-first_dev_txt = ''.join(first_dev.find('br').next_siblings)
-first_dev_name = [x.strip() for x in first_dev_txt.split(',')][0]
-first_year = [x.strip() for x in first_dev_txt.split(',')][1]
-#print(first_year)
+# genre
+first_genre = vg_containers[1].find_all('td', limit=4)[-1].text
 
-first_score_txt = vg_containers[0].find_all('td', limit=4)[-1]
-first_score = float(re.sub('%', '', ''.join(first_score_txt.find('b'))))
-first_reviews = ''.join(first_score_txt.find('br').next_siblings)
-first_rev_num = float(first_reviews.split(' ')[0])
-#print(first_score)
+# north america sales
+na_sales = vg_containers[1].find_all('td', limit=6)[-1].text
 
+# europe sales
+eu_sales = vg_containers[1].find_all('td', limit=7)[-1].text
 
+# japan sales
+j_sales = vg_containers[1].find_all('td', limit=8)[-1].text
 
-### scrape the first page for PS4 video game reviews 
+# rest of world sales 
+rest_sales = vg_containers[1].find_all('td', limit=9)[-1].text
+
+# total sales
+tot_sales = vg_containers[1].find_all('td', limit=10)[-1].text
+#print(tot_sales)
+
+### scrape the sales page for PS4 video games
 
 # create empty lists to fill with scraped data
 names = []
-developers = []
-years = []
-scores = []
-reviews = []
+genres = []
+northamers= []
+europes = []
+japans = []
+rests = []
+worlds = []
 
-# create loop for full data scraping
-pages = [str(i) for i in range(0,20)]
-
-# set up the loop monitoring
-start_time = time()
-requests = 0
-
-# loop over all pages
-for page in pages:
-	
-	# make a request for each page
-	page_view = get('https://www.gamerankings.com/browse.html?site=ps4&page='
-	+ page + '&sort=2&numrev=2')
-	
-	# add pauses in data pull requests to play nice with their server
-	sleep(randint(10, 20))
-	
-	# keep an eye on the progress
-	requests += 1
-	elapsed_time = time() - start_time
-	print('Request: {}; Frequency: {} requests/s'.format(requests, requests/elapsed_time))
-	display.clear_output(wait = True)
-	
-	# output a warning if trouble
-	if response.status_code !=200:
-		warn('Request: {}; Status code; {}'.format(requests, response.status_code))
-		
-	# interrupt loop if more loops than desired
-	if requests > 56:
-		warn('Request number exceeds expectations')
-		break
-		
-	# extract contents of each page	
-	soup = BeautifulSoup(page_view.text, 'html.parser')
-	
-	# get all of the rows corresponding to each game
-	vg_containers = soup.find_all('tr')
-
-	# extract data from individual entries
-	for entry in vg_containers:
-		
+# extract data from individual entries
+for entry in vg_containers[1:2]:
+	try:
 		# game name
-		name = entry.a.text
-		names.append(name)
+		first_name = entry.find_all('td', limit=2)[-1]
+		first_name_txt = ''.join(first_name.find('a').contents[0])
+		names.append(first_name_txt)
 		
-		# developer
-		first_dev = entry.find_all('td', limit=3)[-1]
-		first_dev_txt = ''.join(first_dev.find('br').next_siblings)
-		developer = [x.strip() for x in first_dev_txt.split(',')][0]
-		developers.append(developer)
+		# genres
+		genre = entry.find_all('td', limit=4)[-1].text
+		genres.append(genre)
 		
-		# year published
-		try:
-			year = [x.strip() for x in first_dev_txt.split(',')][1]
-		except IndexError:
-			year = 'na'
-		years.append(year)
+		# north america sales
+		na_sale = entry.find_all('td', limit=6)[-1].text
+		northamers.append(na_sale)
 		
-		# avearge score
-		first_score_txt = entry.find_all('td', limit=4)[-1]
-		score = float(re.sub('%', '', ''.join(first_score_txt.find('b'))))
-		scores.append(score)
+		# european sales
+		eu_sale = entry.find_all('td', limit=7)[-1].text
+		europes.append(eu_sale)
 		
-		# number of reviews
-		first_reviews = ''.join(first_score_txt.find('br').next_siblings)
-		review = float(first_reviews.split(' ')[0])
-		reviews.append(review)
-	
-# look at output
-gamescores_df = pd.DataFrame({
-	'Video Game': names,
-	'Developer': developers,
-	'Year': years,
-	'Avg Score': scores,
-	'# Reviews': reviews	
-})
-gamescores_df = gamescores_df[['Video Game','Developer','Year','Avg Score','# Reviews']]
+		# japan sales
+		j_sale = entry.find_all('td', limit=8)[-1].text
+		japans.append(j_sale)
+		
+		# rest of world sales
+		rest_sale = entry.find_all('td', limit=9)[-1].text
+		rests.append(rest_sale)
+		
+		# total sales
+		tot_sale = entry.find_all('td', limit=10)[-1].text
+		worlds.append(tot_sale)
+	# need to include an expcetion if there is not a complete entry for a row
+	except:
+		continue 
 
-print(gamescores_df.info())
+# create dataframe of output
+gamesales_df = pd.DataFrame({
+	'vg_name': names,
+	'genre': genress,
+	'NA_sales': northamers,
+	'EU_sales': europes,
+	'Japan_sales': japans,
+	'Nonspec_sales': rests,
+	'Tot_sales': worlds
+		
+})
+
+# assign column names
+gamesales_df = gamesales_df[['vg_name','genre','NA_sales','EU_sales','Japan_sales', 'Nonspec_sales', 'Tot_sales']]
+
+# check the details of dataframe
+gamesales_df.info()
 
 # export shiny new data
-gamescores_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_scores.csv', index = None, header = True)
+gamesales_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/VG_data/PS4/ps4_videogame_sales.csv', index = None, header = True)
