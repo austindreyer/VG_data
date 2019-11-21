@@ -15,7 +15,7 @@ from random import randint
 from IPython import display
 from warnings import warn
 
-url = "http://www.vgchartz.com/gamedb/games.php?name=&keyword=&console=PS4&region=All&developer=&publisher=&goty_year=&genre=&boxart=Both&banner=Both&ownership=Both&showmultiplat=No&results=50&order=Sales&showtotalsales=0&showtotalsales=1&showpublisher=0&showpublisher=1&showvgchartzscore=0&shownasales=0&showdeveloper=0&showcriticscore=0&showpalsales=0&showreleasedate=0&showuserscore=0&showjapansales=0&showlastupdate=0&showothersales=0&showshipped=0"
+url = "http://www.vgchartz.com/platform/69/playstation-4/"
 
 # demonstrate extraction of webpage
 response = get(url)
