@@ -20,9 +20,9 @@ url = "https://en.wikipedia.org/wiki/List_of_video_game_developers"
 
 df = pd.read_html(url, header=0)[2]
 
-devs_df = df[['developer','country','est']]
+devs_df = df[['Developer','Country','Est.']]
 
-#print(devs_df)
+print(devs_df)
 
 #df.head()
 
