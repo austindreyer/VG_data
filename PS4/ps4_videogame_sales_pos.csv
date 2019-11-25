@@ -1,713 +1,714 @@
-vg_name,genre,NA_sales,EU_sales,Japan_sales,Nonspec_sales,Tot_sales
-Grand Theft Auto V,Action,6.06,9.71,0.6,3.02,19.39
-Call of Duty: Black Ops 3,Shooter,6.18,6.05,0.41,2.44,15.09
-Red Dead Redemption 2,Action-Adventure,5.26,6.21,0.21,2.26,13.94
-Call of Duty: WWII,Shooter,4.67,6.21,0.4,2.12,13.4
-FIFA 18,Sports,1.27,8.64,0.15,1.73,11.8
-FIFA 17,Sports,1.26,7.95,0.12,1.61,10.94
-Uncharted (PS4),Action,4.49,3.93,0.21,1.7,10.33
-Spider-Man (PS4),Action-Adventure,3.64,3.39,0.32,1.41,8.76
-Call of Duty: Infinite Warfare,Shooter,3.11,3.83,0.19,1.36,8.48
-Fallout 4,Role-Playing,2.91,3.97,0.27,1.34,8.48
-FIFA 16,Sports,1.15,5.77,0.07,1.23,8.22
-Star Wars Battlefront (2015),Shooter,3.31,3.19,0.23,1.3,8.03
-Call of Duty: Advanced Warfare,Shooter,2.84,3.34,0.14,1.22,7.53
-Battlefield 1,Shooter,2.2,3.65,0.29,1.12,7.26
-The Last of Us,Action-Adventure,2.7,2.86,0.11,1.1,6.77
-MineCraft,Misc,1.89,3.13,0.35,0.96,6.33
-FIFA 15,Sports,0.83,4.49,0.05,0.94,6.32
-God of War (PS4),Action,2.83,2.17,0.13,1.02,6.15
-Horizon: Zero Dawn,Action,2.2,2.43,0.28,0.92,5.82
-Destiny,Shooter,2.53,2.13,0.16,0.94,5.76
-Uncharted: The Nathan Drake Collection,Action,2.55,2.11,0.1,0.94,5.7
-The Witcher 3: Wild Hunt,Role-Playing,1.48,2.82,0.28,0.81,5.39
-Final Fantasy XV,Role-Playing,1.81,1.53,1.05,0.68,5.07
-Crash Bandicoot N. Sane Trilogy,Platform,1.09,2.92,0.07,0.74,4.83
-Monster Hunter: World,Action,1.03,1.06,2.17,0.42,4.67
-Overwatch,Shooter,1.84,1.8,0.17,0.73,4.54
-Star Wars Battlefront II (2017),Shooter,1.7,1.99,0.12,0.73,4.53
-Tom Clancy's The Division,Shooter,1.49,2.04,0.16,0.69,4.37
-Tom Clancy's Rainbow Six: Siege,Shooter,1.29,2.06,0.36,0.64,4.36
-Watch Dogs,Action-Adventure,1.4,2.13,0.11,0.68,4.32
-Call of Duty: Ghosts,Shooter,1.79,1.64,0.05,0.69,4.17
-Assassin's Creed: Unity,Action,1.25,2.16,0.09,0.65,4.14
-Destiny 2,Shooter,1.92,1.44,0.1,0.69,4.14
-Batman: Arkham Knight,Action,1.65,1.68,0.11,0.66,4.11
-Assassin's Creed Origins,Action,1.22,2.11,0.11,0.63,4.06
-Far Cry 4,Shooter,1.18,2.14,0.11,0.63,4.06
-NBA 2K16,Sports,2.56,0.66,0.05,0.71,3.98
-Far Cry 5,Action,1.44,1.73,0.15,0.62,3.95
-Battlefield 4,Shooter,1.4,1.74,0.19,0.62,3.94
-Gran Turismo Sport,Racing,0.63,2.35,0.24,0.54,3.77
-Assassin's Creed Syndicate,Action,0.9,2.06,0.08,0.55,3.6
-NBA 2K17,Sports,2.28,0.59,0.03,0.63,3.52
-Mortal Kombat X,Fighting,1.94,0.94,0.0,0.61,3.49
-FIFA Soccer 14,Sports,0.62,2.18,0.12,0.51,3.43
-The Elder Scrolls V: Skyrim,Role-Playing,1.24,1.5,0.08,0.54,3.36
-Watch Dogs 2,Action,0.98,1.74,0.12,0.52,3.36
-NBA 2K18,Sports,2.13,0.57,0.04,0.59,3.34
-Resident Evil VII: Biohazard,Action,0.88,1.56,0.41,0.46,3.31
-Madden NFL 16,Sports,2.39,0.31,0.0,0.61,3.3
-Madden NFL 17,Sports,2.3,0.37,0.0,0.6,3.28
-Middle-Earth: Shadow of Mordor,Action,1.03,1.6,0.05,0.51,3.19
-Assassin's Creed IV: Black Flag,Action-Adventure,1.07,1.55,0.06,0.51,3.19
-Tom Clancy's Ghost Recon Wildlands,Shooter,1.07,1.35,0.22,0.47,3.12
-Bloodborne,Role-Playing,1.3,1.05,0.28,0.48,3.11
-Metal Gear Solid V: The Phantom Pain,Action,0.97,1.15,0.5,0.42,3.04
-Killzone: Shadow Fall,Shooter,0.89,1.58,0.08,0.47,3.02
-inFAMOUS: Second Son,Action-Adventure,1.35,1.09,0.07,0.5,3.01
-Doom (2016),Shooter,0.93,1.48,0.04,0.46,2.92
-Mafia III,Action-Adventure,0.72,1.67,0.04,0.44,2.87
-Diablo III,Role-Playing,0.83,1.48,0.08,0.44,2.82
-Far Cry: Primal,Action-Adventure,0.63,1.61,0.07,0.41,2.73
-Need for Speed (2015),Racing,0.59,1.66,0.06,0.41,2.72
-Madden NFL 18,Sports,1.73,0.42,0.0,0.47,2.62
-NBA 2K15,Sports,1.49,0.55,0.01,0.44,2.49
-Dying Light,Action,1.18,0.74,0.13,0.4,2.45
-Dark Souls III,Role-Playing,1.0,0.63,0.44,0.34,2.42
-Ratchet & Clank (2016),Platform,0.97,0.97,0.06,0.39,2.38
-DriveClub,Racing,0.37,1.63,0.02,0.36,2.37
-Uncharted: The Lost Legacy,Action,0.58,1.38,0.04,0.36,2.37
-Dragon Age III: Inquisition,Role-Playing,1.07,0.8,0.08,0.38,2.34
-No Man's Sky,Action-Adventure,0.89,0.97,0.04,0.37,2.26
-Madden NFL 15,Sports,1.58,0.25,0.0,0.41,2.25
-Need for Speed: Payback,Racing,0.62,1.18,0.04,0.34,2.18
-Destiny: The Taken King,Shooter,0.97,0.8,0.05,0.36,2.18
-Need for Speed Rivals,Racing,0.75,1.04,0.03,0.35,2.17
-PlayStation VR Worlds,Misc,0.36,1.4,0.09,0.32,2.16
-Battlefield: Hardline,Shooter,0.72,0.97,0.14,0.33,2.15
-Rise of the Tomb Raider,Adventure,0.61,1.08,0.05,0.32,2.07
-LittleBigPlanet 3,Platform,0.78,0.93,0.01,0.34,2.06
-The Elder Scrolls Online,MMO,0.74,0.98,0.0,0.33,2.05
-Middle-Earth: Shadow of War,Action,0.82,0.84,0.06,0.33,2.04
-Dragon Quest XI,Role-Playing,0.29,0.22,1.43,0.1,2.04
-Rocket League,Sports,0.37,1.34,0.0,0.31,2.02
-Just Cause 3,Action-Adventure,0.53,1.07,0.09,0.3,1.98
-Dishonored 2,Action,0.62,1.02,0.01,0.31,1.97
-Lego Marvel Super Heroes,Action,0.59,1.0,0.01,0.3,1.91
-Until Dawn,Adventure,0.62,0.92,0.06,0.3,1.9
-Knack,Platform,0.45,0.77,0.42,0.23,1.88
-The Evil Within,Action,0.56,0.9,0.11,0.28,1.86
-The Crew,Racing,0.44,1.04,0.03,0.27,1.79
-Kingdom Hearts 1.5 + 2.5 Remix,Role-Playing,0.75,0.51,0.23,0.26,1.75
-For Honor,Action,0.73,0.66,0.07,0.28,1.75
-Titanfall 2,Shooter,0.75,0.62,0.06,0.28,1.72
-Injustice 2,Fighting,0.88,0.54,0.0,0.29,1.72
-NieR Automata,Role-Playing,0.56,0.51,0.42,0.22,1.71
-Tekken 7,Fighting,0.6,0.72,0.12,0.26,1.7
-Persona 5,Role-Playing,0.62,0.34,0.48,0.2,1.64
-The Order: 1886,Shooter,0.44,0.86,0.07,0.25,1.62
-Wolfenstein: The New Order,Shooter,0.48,0.84,0.03,0.25,1.61
-Detroit: Become Human,Adventure,0.55,0.67,0.12,0.24,1.57
-Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,0.71,0.47,0.12,0.24,1.54
-NBA 2K14,Sports,0.91,0.35,0.01,0.27,1.54
-Tomb Raider (2013),Action-Adventure,0.47,0.74,0.06,0.23,1.51
-Dragon Ball: Xenoverse 2,Action,0.54,0.59,0.14,0.23,1.5
-Rayman Legends,Platform,0.22,1.05,0.0,0.23,1.5
-Mass Effect: Andromeda,Role-Playing,0.58,0.67,0.0,0.25,1.49
-Dragon Ball Fighter Z,Fighting,0.61,0.51,0.12,0.23,1.46
-South Park: The Fractured But Whole,Role-Playing,0.62,0.57,0.0,0.24,1.43
-The Sims 4,Simulation,0.44,0.72,0.01,0.22,1.39
-Street Fighter V,Fighting,0.64,0.42,0.12,0.22,1.39
-Wolfenstein II: The New Colossus,Shooter,0.55,0.58,0.01,0.22,1.36
-WWE 2K18,Sports,0.45,0.67,0.0,0.22,1.33
-Lego Star Wars: The Force Awakens,Action-Adventure,0.3,0.78,0.02,0.2,1.31
-EA Sports UFC 2,Sports,0.44,0.65,0.0,0.21,1.31
-The Last Guardian,Action-Adventure,0.4,0.58,0.13,0.19,1.29
-WWE 2K16,Sports,0.43,0.65,0.0,0.21,1.29
-Borderlands: The Handsome Collection,Shooter,0.69,0.34,0.03,0.22,1.28
-Project CARS,Racing,0.29,0.76,0.04,0.19,1.28
-WWE 2K17,Sports,0.32,0.7,0.0,0.19,1.22
-Guitar Hero Live,Music,0.52,0.49,0.0,0.2,1.21
-Metal Gear Solid: Ground Zeroes,Action-Adventure,0.36,0.5,0.17,0.17,1.2
-Mad Max (2013),Action,0.38,0.59,0.05,0.19,1.2
-Shadow of the Colossus,Action-Adventure,0.44,0.52,0.05,0.19,1.2
-Kingdom Hearts HD 2.8 Final Chapter Prologue,Role-Playing,0.57,0.25,0.2,0.17,1.2
-Dragon Ball: XenoVerse,Fighting,0.33,0.55,0.14,0.17,1.19
-LEGO Dimensions,Action,0.48,0.5,0.0,0.2,1.18
-LEGO Jurassic World,Action,0.41,0.56,0.02,0.19,1.18
-WWE 2K15,Sports,0.4,0.57,0.0,0.19,1.16
-MLB The Show 17,Sports,0.94,0.0,0.0,0.22,1.16
-LEGO Worlds,Misc,0.21,0.72,0.04,0.17,1.14
-The Elder Scrolls V: Skyrim PSVR,Role-Playing,0.47,0.47,0.01,0.19,1.13
-LEGO Marvel Super Heroes 2,Action,0.33,0.6,0.0,0.18,1.11
-EA Sports UFC,Fighting,0.49,0.43,0.01,0.18,1.11
-Final Fantasy XII: The Zodiac Age,Role-Playing,0.37,0.41,0.16,0.15,1.1
-Alien: Isolation,Adventure,0.29,0.59,0.05,0.16,1.09
-MLB The Show 18,Sports,0.86,0.0,0.0,0.2,1.06
-The Evil Within II,Action,0.31,0.49,0.09,0.15,1.05
-Prey (2017),Shooter,0.25,0.62,0.02,0.16,1.04
-Final Fantasy Type-0,Role-Playing,0.4,0.33,0.16,0.15,1.04
-Ni-Oh,Action,0.34,0.36,0.2,0.14,1.03
-MLB 15: The Show,Sports,0.75,0.08,0.0,0.19,1.01
-Steep,Sports,0.23,0.6,0.02,0.15,1.01
-LEGO Marvel's Avengers,Action,0.31,0.53,0.01,0.16,1.01
-Evolve,Shooter,0.38,0.41,0.05,0.16,1.01
-Injustice: Gods Among Us,Fighting,0.46,0.35,0.0,0.17,0.98
-EA Sports UFC 3,Sports,0.4,0.41,0.01,0.16,0.97
-Madden NFL 25,Sports,0.64,0.15,0.0,0.17,0.96
-MLB 16: The Show,Sports,0.78,0.0,0.0,0.18,0.96
-Lego Batman 3: Beyond Gotham,Action,0.37,0.42,0.0,0.16,0.94
-Final Fantasy X/X-2 HD Remaster,Role-Playing,0.34,0.36,0.07,0.14,0.9
-Ni no Kuni II: Revenant Kingdom,Role-Playing,0.33,0.31,0.12,0.13,0.89
-God of War III,Action,0.4,0.33,0.02,0.15,0.89
-Fortnite,Action,0.42,0.32,0.0,0.15,0.89
-LEGO Harry Potter Collection,Action,0.07,0.68,0.0,0.13,0.88
-Minecraft: Story Mode,Adventure,0.31,0.42,0.0,0.14,0.87
-BioShock The Collection,Shooter,0.41,0.28,0.03,0.14,0.86
-Thief 4,Action,0.28,0.41,0.03,0.13,0.85
-Until Dawn: Rush of Blood,Shooter,0.5,0.21,0.0,0.15,0.85
-Disney Infinity 3.0,Action,0.31,0.4,0.0,0.14,0.85
-Farming Simulator 17,Simulation,0.19,0.52,0.01,0.13,0.85
-The Crew 2,Racing,0.22,0.42,0.05,0.12,0.82
-Pro Evolution Soccer 2016,Sports,0.14,0.43,0.14,0.1,0.82
-ARK: Survival Evolved,Action,0.28,0.29,0.14,0.11,0.81
-Dragon Quest Heroes: The World's Tree Woe and the Blight Below,Action,0.21,0.14,0.39,0.07,0.81
-Assassin's Creed The Ezio Collection,Action,0.14,0.52,0.02,0.12,0.79
-Final Fantasy XIV: A Realm Reborn,MMO,0.35,0.23,0.08,0.12,0.79
-Destiny: The Collection,Shooter,0.24,0.4,0.02,0.12,0.78
-F1 2016 (Codemasters),Racing,0.07,0.56,0.03,0.11,0.78
-Hitman (2016),Action,0.24,0.36,0.06,0.11,0.78
-Pro Evolution Soccer 2015,Sports,0.09,0.45,0.12,0.1,0.76
-LEGO City Undercover,Platform,0.17,0.46,0.01,0.12,0.75
-Pro Evolution Soccer 2018,Sports,0.12,0.36,0.19,0.09,0.75
-Disney Infinity 2.0: Marvel Super Heroes,Action-Adventure,0.37,0.25,0.0,0.13,0.75
-Pro Evolution Soccer 2017,Sports,0.08,0.41,0.18,0.09,0.75
-Sniper Elite 3,Shooter,0.25,0.37,0.0,0.12,0.74
-MLB 14 The Show,Sports,0.59,0.0,0.0,0.14,0.73
-WipEout Omega Collection,Racing,0.12,0.49,0.0,0.11,0.72
-Deus Ex: Mankind Divided,Role-Playing,0.25,0.34,0.01,0.12,0.72
-The LEGO Movie Videogame,Action-Adventure,0.26,0.32,0.01,0.11,0.71
-Marvel vs. Capcom: Infinite,Fighting,0.36,0.19,0.04,0.11,0.7
-Dark Souls II,Role-Playing,0.27,0.23,0.09,0.1,0.69
-Yakuza 6,Adventure,0.16,0.1,0.38,0.05,0.69
-F1 2015,Racing,0.1,0.45,0.04,0.1,0.68
-METRO 2033,Shooter,0.22,0.31,0.05,0.1,0.68
-Rocksmith 2014,Music,0.38,0.17,0.0,0.12,0.67
-NHL 16,Sports,0.38,0.16,0.0,0.12,0.66
-Plants vs Zombies: Garden Warfare,Shooter,0.24,0.3,0.01,0.11,0.66
-Tales of Berseria,Role-Playing,0.22,0.1,0.26,0.07,0.65
-Yakuza Zero: The Place of Oath,Adventure,0.22,0.16,0.19,0.08,0.65
-One Piece: Burning Blood,Fighting,0.21,0.26,0.09,0.09,0.65
-Batman: Return to Arkham,Action,0.15,0.39,0.01,0.1,0.64
-Plants vs. Zombies: Garden Warfare 2,Shooter,0.22,0.31,0.0,0.1,0.63
-LEGO The Hobbit,Action-Adventure,0.14,0.39,0.0,0.1,0.62
-World of Final Fantasy,Role-Playing,0.24,0.21,0.09,0.09,0.62
-F1 2017,Racing,0.04,0.47,0.02,0.09,0.62
-NHL 15,Sports,0.32,0.19,0.0,0.11,0.62
-Knowledge is Power,Party,0.05,0.47,0.0,0.09,0.61
-L.A. Noire,Adventure,0.18,0.32,0.0,0.1,0.6
-Hidden Agenda,Adventure,0.08,0.42,0.0,0.09,0.59
-Call of Duty: Modern Warfare Remastered,Shooter,0.17,0.3,0.03,0.09,0.58
-Dragon Quest Builders: Revive Alefgard,Role-Playing,0.12,0.17,0.24,0.06,0.58
-The Lego Ninjago Movie Videogame,Action,0.16,0.32,0.0,0.09,0.57
-Resident Evil: Revelations 2,Action,0.14,0.25,0.11,0.07,0.57
-Rock Band 4,Music,0.41,0.06,0.0,0.1,0.57
-NHL 18,Sports,0.31,0.16,0.0,0.1,0.57
-Everybody's Golf,Sports,0.12,0.22,0.17,0.06,0.56
-The Amazing Spider-Man 2 (2014),Action-Adventure,0.2,0.26,0.02,0.09,0.56
-DOOM VFR,Shooter,0.22,0.25,0.0,0.09,0.56
-Sonic Forces,Platform,0.15,0.31,0.01,0.09,0.56
-Kingdom Come: Deliverance,Role-Playing,0.18,0.28,0.0,0.09,0.56
-Lords of the Fallen,Role-Playing,0.2,0.24,0.02,0.09,0.55
-Sniper Elite 4,Shooter,0.21,0.25,0.0,0.09,0.55
-Rory McIlroy PGA Tour,Sports,0.19,0.27,0.0,0.09,0.55
-Project CARS 2,Racing,0.1,0.35,0.02,0.08,0.55
-Skylanders: Trap Team,Platform,0.25,0.18,0.0,0.09,0.52
-NHL 17,Sports,0.32,0.11,0.0,0.09,0.52
-One Piece: Pirate Warriors 3,Action,0.11,0.22,0.11,0.06,0.52
-DiRT Rally,Racing,0.13,0.3,0.0,0.08,0.51
-Homefront: The Revolution,Shooter,0.11,0.29,0.04,0.07,0.5
-Attack on Titan (KOEI),Action,0.08,0.24,0.12,0.06,0.5
-DiRT 4,Racing,0.1,0.3,0.02,0.07,0.49
-Farpoint,Shooter,0.0,0.38,0.04,0.06,0.48
-Battleborn,Shooter,0.25,0.12,0.03,0.08,0.48
-A Way Out,Action,0.23,0.16,0.0,0.08,0.48
-Friday the 13th: The Game,Action,0.29,0.09,0.03,0.08,0.48
-The Walking Dead: A Telltale Games Series,Adventure,0.12,0.26,0.03,0.07,0.48
-Wolfenstein: The Old Blood,Shooter,0.13,0.25,0.02,0.07,0.48
-Deadpool,Action,0.26,0.13,0.0,0.08,0.47
-Dragon Quest Heroes II: Twin Kings and the Prophecy's End,Action,0.05,0.09,0.3,0.03,0.47
-TrackMania Turbo,Racing,0.04,0.35,0.0,0.07,0.47
-Knack 2,Platform,0.14,0.25,0.01,0.07,0.47
-Just Dance 2014,Music,0.21,0.18,0.0,0.08,0.47
-Dissidia Final Fantasy NT,Fighting,0.19,0.06,0.16,0.05,0.46
-Skylanders: SuperChargers,Action-Adventure,0.29,0.09,0.0,0.08,0.45
-Yakuza Kiwami,Adventure,0.13,0.07,0.21,0.04,0.45
-Tales of Zestiria,Role-Playing,0.18,0.16,0.04,0.07,0.45
-Star Ocean 5: Integrity and Faithlessness,Role-Playing,0.1,0.13,0.16,0.05,0.45
-Sleeping Dogs,Action,0.16,0.21,0.0,0.07,0.44
-Skylanders SWAP Force,Misc,0.23,0.14,0.0,0.08,0.44
-Skylanders Imaginators,Platform,0.18,0.18,0.0,0.07,0.43
-Trials Fusion,Misc,0.13,0.23,0.01,0.07,0.43
-Saints Row IV,Action,0.15,0.18,0.03,0.06,0.42
-Dishonored,Action,0.12,0.21,0.02,0.06,0.42
-Mirror's Edge 2,Platform,0.13,0.19,0.03,0.06,0.42
-Farming Simulator 2015,Simulation,0.13,0.22,0.0,0.07,0.41
-Just Dance 2015,Music,0.21,0.13,0.0,0.07,0.41
-Sword Art Online: Hollow Realization,Role-Playing,0.18,0.06,0.12,0.05,0.41
-Just Dance 2016,Music,0.19,0.13,0.0,0.07,0.39
-Batman: Arkham VR,Action,0.32,0.0,0.0,0.07,0.39
-Little Nightmares,Platform,0.18,0.12,0.02,0.06,0.39
-Tropico 5,Simulation,0.07,0.18,0.08,0.05,0.38
-Life is Strange,Adventure,0.11,0.16,0.05,0.05,0.37
-Resident Evil Zero,Action-Adventure,0.07,0.18,0.07,0.05,0.37
-Yakuza Kiwami 2,Action,0.08,0.06,0.19,0.03,0.37
-Vampyr,Role-Playing,0.12,0.19,0.0,0.06,0.37
-Okami,Action,0.16,0.12,0.03,0.06,0.36
-Sniper: Ghost Warrior 3,Shooter,0.14,0.15,0.03,0.06,0.36
-Hokuto ga Gotoku,Action,0.09,0.05,0.18,0.03,0.36
-Sword Art Online: Lost Song,Role-Playing,0.19,0.11,0.0,0.06,0.36
-Disgaea 5: Alliance of Vengeance,Role-Playing,0.15,0.08,0.07,0.05,0.35
-Dead or Alive 5,Fighting,0.09,0.13,0.09,0.04,0.35
-Gravity Rush 2,Action-Adventure,0.13,0.05,0.13,0.04,0.35
-Odin Sphere: Leifthrasir,Role-Playing,0.14,0.07,0.09,0.04,0.34
-Divinity: Original Sin,Role-Playing,0.13,0.13,0.04,0.05,0.34
-The King of Fighters XIV,Fighting,0.21,0.02,0.06,0.05,0.34
-Dishonored: Death of the Outsider,Action,0.1,0.18,0.0,0.05,0.33
-Valkyria Chronicles,Role-Playing,0.14,0.08,0.08,0.04,0.33
-Murdered: Soul Suspect,Action-Adventure,0.09,0.17,0.02,0.05,0.33
-Payday 2,Shooter,0.12,0.14,0.0,0.05,0.32
-UEFA Euro 2016,Sports,0.0,0.22,0.05,0.04,0.31
-DmC: Devil May Cry,Action,0.12,0.13,0.0,0.05,0.31
-Sonic Mania,Platform,0.1,0.15,0.01,0.05,0.31
-J Stars Victory Vs.,Fighting,0.11,0.14,0.0,0.05,0.31
-XCOM 2,Strategy,0.16,0.1,0.0,0.05,0.31
-Dynasty Warriors 8: Xtreme Legends,Misc,0.09,0.12,0.06,0.04,0.31
-Cities: Skylines,Simulation,0.15,0.07,0.04,0.05,0.3
-Saint Seiya: Soldiers' Soul,Fighting,0.0,0.21,0.05,0.04,0.3
-Just Dance 2018,Music,0.1,0.15,0.0,0.05,0.3
-The Walking Dead: Season Two,Misc,0.13,0.09,0.03,0.05,0.3
-Sword Art Online: Fatal Bullet,Role-Playing,0.11,0.03,0.13,0.03,0.29
-Naruto to Boruto: Shinobi Striker,Action,0.19,0.03,0.02,0.05,0.29
-Yooka-Laylee,Platform,0.09,0.16,0.0,0.05,0.29
-Cars 3: Driven to Win,Racing,0.06,0.18,0.01,0.04,0.29
-Metal Gear Solid V: The Definitive Experience,Action,0.13,0.08,0.03,0.04,0.29
-Sherlock Holmes: Crimes & Punishments,Adventure,0.1,0.14,0.0,0.05,0.29
-Star Trek Bridge Crew VR,Action,0.11,0.12,0.0,0.05,0.28
-The Heavy Rain and Beyond: Two Souls Collection,Action,0.0,0.24,0.0,0.04,0.28
-Spintires: MudRunner,Simulation,0.11,0.12,0.0,0.05,0.28
-Onechanbara Z2: Chaos,Action,0.16,0.03,0.05,0.04,0.28
-Secret of Mana,Role-Playing,0.06,0.12,0.05,0.04,0.28
-Gundam Versus,Action,0.08,0.0,0.18,0.02,0.28
-NBA Live 14,Sports,0.17,0.05,0.0,0.05,0.27
-Bravo Team VR,Shooter,0.12,0.09,0.02,0.04,0.27
-Killing Floor 2 ,Shooter,0.19,0.03,0.0,0.05,0.27
-Robinson: The Journey,Action-Adventure,0.14,0.09,0.0,0.05,0.27
-DriveClub VR,Racing,0.12,0.09,0.01,0.04,0.27
-Fate/Extella: The Umbral Star,Action,0.12,0.0,0.12,0.03,0.27
-Ultimate Marvel vs. Capcom 3,Fighting,0.19,0.0,0.02,0.04,0.26
-New Danganronpa V3: Minna no Koroshiai Shin Gakki,Adventure,0.09,0.05,0.07,0.03,0.25
-Samurai Warriors 4,Fighting,0.08,0.07,0.06,0.03,0.25
-Darksiders III,Action,0.13,0.07,0.0,0.04,0.25
-NBA Live 15,Sports,0.16,0.04,0.0,0.04,0.25
-NBA Live 18,Sports,0.2,0.0,0.0,0.05,0.24
-Tearaway Unfolded,Platform,0.07,0.13,0.0,0.04,0.24
-.hack//G.U. Last Recode,Role-Playing,0.1,0.04,0.08,0.03,0.24
-Ride,Racing,0.04,0.13,0.03,0.03,0.24
-Just Dance 2017,Misc,0.08,0.12,0.0,0.04,0.24
-The Escapists 2,Action,0.04,0.16,0.0,0.04,0.24
-Transformers: Devastation,Action,0.11,0.09,0.0,0.04,0.24
-Darksiders II,Action-Adventure,0.1,0.1,0.0,0.04,0.24
-Jikkyou Powerful Pro Baseball 2016,Sports,0.0,0.0,0.24,0.0,0.24
-The Elder Scrolls Online: Morrowind,MMO,0.11,0.09,0.0,0.04,0.24
-Digimon World: Next Order,Role-Playing,0.13,0.05,0.02,0.04,0.24
-theHunter: Call of the Wild,Shooter,0.19,0.0,0.0,0.04,0.24
-Tony Hawk's Pro Skater 5,Sports,0.11,0.08,0.0,0.04,0.23
-Angry Birds: Star Wars,Puzzle,0.11,0.09,0.0,0.04,0.23
-Elex,Role-Playing,0.03,0.16,0.0,0.04,0.23
-RIGS: Mechanized Combat League,Action,0.11,0.06,0.02,0.04,0.23
-Transformer: Rise of the Dark Spark,Shooter,0.08,0.11,0.01,0.04,0.23
-Dead Island Definitive Collection,Action,0.09,0.08,0.03,0.03,0.23
-Metal Gear Survive,Action,0.08,0.06,0.05,0.03,0.23
-Singstar Celebration,Music,0.04,0.15,0.0,0.03,0.23
-Dead by Daylight,Action,0.11,0.06,0.02,0.04,0.22
-Attack on Titan 2,Action,0.09,0.04,0.06,0.03,0.22
-The Wolf Among Us,Adventure,0.11,0.07,0.0,0.04,0.22
-Micro Machines: World Series,Racing,0.03,0.16,0.0,0.03,0.22
-Bladestorm: Nightmare,Action,0.11,0.04,0.03,0.03,0.22
-Zombie Army Trilogy,Shooter,0.06,0.13,0.0,0.03,0.22
-Outlast Trinity,Action,0.09,0.09,0.0,0.04,0.22
-EVE: Valkyrie,Shooter,0.11,0.06,0.0,0.04,0.21
-Senran Kagura: Peach Beach Splash,Action,0.09,0.02,0.08,0.02,0.21
-Ys VIII: Lacrimosa of Dana,Role-Playing,0.08,0.04,0.08,0.02,0.21
-Bound By Flame,Action,0.08,0.09,0.0,0.04,0.21
-NBA Live 16,Sports,0.13,0.05,0.0,0.04,0.21
-7 Days to Die,Action,0.09,0.08,0.0,0.03,0.21
-Dynasty Warriors 8: Empires,Misc,0.07,0.07,0.04,0.03,0.21
-Dragon's Dogma,Role-Playing,0.07,0.07,0.03,0.03,0.21
-Godzilla (2015),Action,0.11,0.03,0.03,0.03,0.2
-Eagle Flight,Adventure,0.09,0.08,0.0,0.03,0.2
-Agents of Mayhem,Action,0.08,0.08,0.0,0.03,0.2
-MotoGP 14 ,Racing,0.05,0.11,0.0,0.03,0.2
-Elite: Dangerous,Simulation,0.06,0.1,0.0,0.03,0.19
-Singstar: Ultimate Party,Music,0.0,0.16,0.0,0.03,0.19
-Toukiden Kiwami,Action,0.06,0.07,0.03,0.03,0.19
-Batman: A Telltale Game Series,Adventure,0.09,0.07,0.0,0.03,0.19
-The Surge,Action,0.07,0.08,0.01,0.03,0.19
-MotoGP 15,Racing,0.0,0.13,0.04,0.02,0.18
-Resident Evil: Revelations,Action,0.06,0.06,0.04,0.02,0.18
-Senran Kagura: Estival Versus,Action,0.08,0.0,0.09,0.02,0.18
-Back to the Future: The Game,Adventure,0.1,0.05,0.0,0.03,0.18
-The Walking Dead - The Telltale Series: A New Frontier,Adventure,0.11,0.04,0.0,0.03,0.17
-Resident Evil 6,Shooter,0.1,0.0,0.05,0.02,0.17
-Final Fantasy XIV: Heavensward,MMO,0.0,0.09,0.06,0.02,0.17
-Final Fantasy XIV: Stormblood,MMO,0.05,0.06,0.04,0.02,0.17
-Guilty Gear Xrd: Sign,Fighting,0.11,0.0,0.04,0.02,0.17
-Prototype: Biohazard Bundle,Action,0.14,0.0,0.0,0.03,0.17
-BlazBlue Central Fiction,Fighting,0.1,0.0,0.05,0.02,0.17
-MXGP 3: The Official Motocross Videogame,Racing,0.06,0.08,0.0,0.03,0.17
-Ride 2,Racing,0.07,0.06,0.01,0.03,0.16
-Dead Rising 4,Action-Adventure,0.08,0.05,0.0,0.03,0.16
-Putty Squad,Platform,0.06,0.07,0.0,0.03,0.16
-Digimon Story: Cyber Sleuth - Hacker's Memory,Role-Playing,0.05,0.05,0.04,0.02,0.16
-Battlezone,Action,0.09,0.04,0.0,0.03,0.16
-Naruto Shippuden: Ultimate Ninja Storm Legacy,Fighting,0.07,0.04,0.03,0.02,0.16
-Berserk and the Band of the Hawk,Action,0.07,0.02,0.05,0.02,0.16
-BlazBlue: Chrono Phantasma Extend,Fighting,0.08,0.04,0.02,0.02,0.16
-Pillars of Eternity,Role-Playing,0.11,0.02,0.0,0.03,0.16
-Valkyria: Azure Revolution,Role-Playing,0.04,0.03,0.07,0.02,0.16
-Gravity Rush Remastered,Action-Adventure,0.02,0.06,0.05,0.02,0.16
-Psycho-Pass: Mandatory Happiness,Visual Novel,0.1,0.02,0.0,0.03,0.15
-Brothers: A Tale of Two Sons,Adventure,0.04,0.09,0.0,0.02,0.15
-Warriors Orochi 3,Action,0.04,0.05,0.04,0.02,0.15
-Wasteland 2,Role-Playing,0.1,0.0,0.03,0.02,0.15
-Atelier Sophie: The Alchemist of the Mysterious Book,Role-Playing,0.04,0.03,0.07,0.01,0.15
-NASCAR Heat Evolution,Racing,0.12,0.0,0.0,0.03,0.15
-Yakuza: Ishin,Adventure,0.0,0.0,0.15,0.0,0.15
-Toukiden 2,Action,0.04,0.0,0.1,0.01,0.15
-Song of the Deep,Action,0.12,0.0,0.0,0.03,0.15
-Super Robot Wars V,Role-Playing,0.0,0.0,0.15,0.0,0.15
-Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,Role-Playing,0.07,0.0,0.06,0.02,0.14
-Yonmegami Online: Cyber Dimension Neptune,Role-Playing,0.06,0.0,0.07,0.01,0.14
-Grand Kingdom,Role-Playing,0.08,0.0,0.04,0.02,0.14
-Arslan: The Warriors of Legend,Action,0.03,0.04,0.06,0.01,0.14
-Pro Cycling Manager 2016,Sports,0.0,0.12,0.0,0.02,0.14
-Shovel Knight,Platform,0.08,0.04,0.0,0.02,0.14
-Adventure Time: Finn & Jake Investigations,Action,0.07,0.05,0.0,0.02,0.14
-Guilty Gear Xrd -Revelator-,Fighting,0.06,0.0,0.07,0.01,0.14
-We Happy Few,Action-Adventure,0.08,0.04,0.0,0.02,0.14
-Rocksmith 2014 Edition Remastered,Music,0.11,0.0,0.0,0.03,0.14
-The Crew: Wild Run,Racing,0.0,0.12,0.0,0.02,0.14
-MXGP 2,Racing,0.05,0.06,0.0,0.02,0.14
-MotoGP 17,Racing,0.04,0.07,0.0,0.02,0.14
-Fairy Fencer F: Advent Dark Force,Role-Playing,0.06,0.0,0.06,0.01,0.14
-Samurai Warriors 4-II,Action,0.04,0.02,0.07,0.01,0.13
-The Golf Club,Sports,0.09,0.02,0.0,0.02,0.13
-Hatsune Miku: Project Diva X,Music,0.08,0.0,0.04,0.02,0.13
-NASCAR Heat 2,Racing,0.11,0.0,0.0,0.02,0.13
-Bulletstorm: Full Clip Edition,Shooter,0.05,0.06,0.0,0.02,0.13
-Valentino Rossi: The Game,Racing,0.05,0.05,0.0,0.02,0.13
-Golf Club 2,Sports,0.05,0.06,0.0,0.02,0.13
-Akiba's Trip 2,Action,0.09,0.0,0.02,0.02,0.13
-Rugby 15,Sports,0.05,0.06,0.0,0.02,0.13
-Utawarerumono: Futari no Hakuoro,Visual Novel,0.05,0.0,0.07,0.01,0.13
-The Legend of Heroes: Trails of Cold Steel III,Role-Playing,0.0,0.0,0.13,0.0,0.13
-Utawarerumono: Itsuwari no Kamen,Adventure,0.05,0.0,0.07,0.01,0.13
-The Inpatient,Action,0.06,0.05,0.0,0.02,0.13
-Don Bradman Cricket 14,Sports,0.01,0.09,0.0,0.02,0.13
-Sword Art Online: Hollow Fragment,Role-Playing,0.0,0.11,0.0,0.02,0.12
-Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,0.07,0.03,0.0,0.02,0.12
-Job Simulator,Simulation,0.1,0.0,0.0,0.02,0.12
-Portal Knights,Role-Playing,0.02,0.05,0.03,0.01,0.12
-Samurai Warriors 4: Empires,Action,0.03,0.01,0.07,0.01,0.12
-Danganronpa 1o2 Reload,Adventure,0.08,0.0,0.02,0.02,0.12
-God Eater 2: Rage Burst,Role-Playing,0.0,0.01,0.11,0.0,0.12
-America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,Misc,0.1,0.0,0.0,0.02,0.12
-Marvel's Guardians of the Galaxy: The Telltale Series,Adventure,0.06,0.04,0.0,0.02,0.12
-Digimon Story: Cyber Sleuth,Role-Playing,0.0,0.1,0.0,0.02,0.11
-Constructor HD,Strategy,0.09,0.0,0.0,0.02,0.11
-Minecraft: Story Mode - Season Two,Adventure,0.09,0.0,0.0,0.02,0.11
-Darksiders: Warmastered Edition,Action-Adventure,0.07,0.02,0.0,0.02,0.11
-Mighty No. 9,Platform,0.09,0.0,0.0,0.02,0.11
-The Invisible Hours,Adventure,0.09,0.0,0.0,0.02,0.11
-Monster Energy Supercross - The Official Videogame,Racing,0.08,0.01,0.0,0.02,0.11
-The Idolmaster: Platinum Stars,Simulation,0.0,0.0,0.11,0.0,0.11
-The Witch and the Hundred Knight,Role-Playing,0.03,0.01,0.06,0.01,0.11
-SD Gundam G Generation Genesis,Strategy,0.0,0.0,0.11,0.0,0.11
-Rime,Adventure,0.02,0.07,0.0,0.02,0.11
-Super Robot Wars OG: The Moon Dwellers,Misc,0.0,0.0,0.11,0.0,0.11
-Gundam Breaker 3,Action,0.0,0.0,0.11,0.0,0.11
-Earth Defense Force 2025.1: The Shadow of New Despair,Shooter,0.0,0.0,0.11,0.0,0.11
-Shadow Warrior (2013),Shooter,0.0,0.09,0.0,0.02,0.11
-Assassin's Creed Chronicles,Action,0.02,0.05,0.02,0.01,0.11
-Mega Man Legacy Collection,Platform,0.09,0.0,0.0,0.02,0.11
-Pac-Man Championship Edition 2 + Arcade Game Series,Action,0.08,0.0,0.0,0.02,0.1
-Tokyo Xanadu eX+,Role-Playing,0.05,0.0,0.05,0.01,0.1
-Stardew Valley,Simulation,0.04,0.04,0.0,0.02,0.1
-Romance of the Three Kingdoms 13,Action,0.03,0.0,0.06,0.01,0.1
-Musou Stars,Action,0.03,0.0,0.06,0.01,0.1
-Mega Man Legacy Collection 2,Action,0.06,0.0,0.02,0.01,0.1
-Final Fantasy XIV Online Complete Edition,MMO,0.07,0.0,0.02,0.02,0.1
-Devil May Cry 4,Action,0.01,0.0,0.09,0.0,0.1
-Puyo Puyo Tetris,Puzzle,0.05,0.03,0.0,0.02,0.1
-Natural Doctrine,Role-Playing,0.05,0.02,0.02,0.01,0.1
-Sudden Strike 4,Strategy,0.05,0.03,0.01,0.02,0.1
-Accel World vs. Sword Art Online: Millennium Twilight,Action,0.0,0.03,0.06,0.01,0.1
-Wolfenstein The Two Pack,Shooter,0.08,0.0,0.0,0.02,0.1
-Guilty Gear Xrd REV 2,Fighting,0.04,0.01,0.03,0.01,0.1
-Ultra Street Fighter IV,Fighting,0.0,0.08,0.0,0.01,0.1
-Let's Sing 2016,Music,0.08,0.0,0.0,0.02,0.1
-Resident Evil 4 HD,Action-Adventure,0.07,0.0,0.01,0.02,0.1
-Nights of Azure 2,Action,0.04,0.0,0.04,0.01,0.09
-The Technomancer,Role-Playing,0.04,0.04,0.0,0.02,0.09
-Nights of Azure,Action,0.04,0.04,0.0,0.02,0.09
-Taiko no Tatsujin: Drum Session!,Music,0.0,0.0,0.09,0.0,0.09
-Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,Strategy,0.03,0.0,0.06,0.01,0.09
-Grand Ages: Medieval,Strategy,0.0,0.05,0.03,0.01,0.09
-Rugby League Live 4,Sports,0.0,0.08,0.0,0.01,0.09
-Toy Soldiers: War Chest,Action,0.07,0.0,0.0,0.02,0.09
-God Eater Resurrection,Action,0.0,0.0,0.09,0.0,0.09
-Paragon,Action,0.07,0.0,0.0,0.02,0.09
-Summon Night 6: Lost Borders,Role-Playing,0.03,0.0,0.05,0.01,0.09
-Black Rose Valkyrie,Role-Playing,0.04,0.0,0.04,0.01,0.09
-Duke Nukem 3D: 20th Anniversary World Tour,Shooter,0.07,0.0,0.0,0.02,0.09
-ATV Drift & Tricks,Racing,0.07,0.0,0.0,0.02,0.09
-Yoru no Nai Kuni,Role-Playing,0.0,0.0,0.09,0.0,0.09
-Lara Croft and the Temple of Osiris,Action,0.0,0.07,0.0,0.01,0.09
-Dragon's Dogma Online,Role-Playing,0.0,0.0,0.09,0.0,0.09
-Ghostbusters (2016),Action,0.07,0.0,0.0,0.02,0.08
-Agatha Christie's The ABC Murders,Adventure,0.05,0.02,0.0,0.02,0.08
-Shantae: Half-Genie Hero,Platform,0.06,0.0,0.01,0.01,0.08
-Earth Defense Force 4.1: The Shadow of New Despair,Shooter,0.05,0.02,0.0,0.01,0.08
-The Sexy Brutale,Adventure,0.05,0.02,0.0,0.01,0.08
-Legend of Kay,Action,0.03,0.03,0.0,0.01,0.08
-Hasbro Family Fun Pack Conquest Edition,Misc,0.07,0.0,0.0,0.02,0.08
-Loading Human,Adventure,0.05,0.02,0.0,0.01,0.08
-Rapala Fishing Pro Series,Simulation,0.06,0.0,0.0,0.02,0.08
-Atelier Firis: The Alchemist of the Mysterious Journey,Role-Playing,0.02,0.0,0.05,0.01,0.08
-Dead Rising,Action,0.04,0.0,0.02,0.01,0.08
-Assetto Corsa,Racing,0.0,0.06,0.01,0.01,0.08
-Akiba's Beat,Action,0.05,0.0,0.01,0.01,0.08
-WRC 6,Racing,0.03,0.02,0.01,0.01,0.08
-God Wars: Future Past,Role-Playing,0.03,0.01,0.02,0.01,0.07
-Resident Evil 5 HD,Action,0.05,0.0,0.01,0.01,0.07
-The Witch and the Hundred Knights 2,Role-Playing,0.03,0.0,0.03,0.01,0.07
-Samurai Warriors: Sanada Maru,Action,0.02,0.0,0.05,0.01,0.07
-Project Setsuna,Role-Playing,0.0,0.0,0.07,0.0,0.07
-Has-Been Heroes,Action,0.06,0.0,0.0,0.01,0.07
-Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,Misc,0.0,0.0,0.07,0.0,0.07
-Styx: Shards of Darknes,Action,0.06,0.0,0.0,0.01,0.07
-Dead Rising 2,Action,0.04,0.0,0.02,0.01,0.07
-The Book of Unwritten Tales 2,Adventure,0.0,0.06,0.0,0.01,0.07
-Touhou Genso Rondo: Bullet Ballet,Shooter,0.06,0.0,0.0,0.01,0.07
-The Walking Dead: A Telltale Series Collection,Adventure,0.06,0.0,0.0,0.01,0.07
-The Silver Case,Visual Novel,0.05,0.0,0.01,0.01,0.07
-Hunting Simulator,Shooter,0.06,0.0,0.0,0.01,0.07
-WRC 7,Racing,0.06,0.0,0.0,0.01,0.07
-Kamen Rider: Battride War Genesis,Action,0.0,0.0,0.07,0.0,0.07
-Le Tour de France 2017,Simulation,0.0,0.06,0.0,0.01,0.07
- City Shrouded in Shadow,Action-Adventure,0.0,0.0,0.07,0.0,0.07
-SG/ZH: School Girl/Zombie Hunter,Action,0.04,0.0,0.02,0.01,0.07
-Broken Sword 5: The Serpent's Curse,Adventure,0.0,0.06,0.0,0.01,0.07
-Terraria,Action,0.0,0.05,0.01,0.01,0.07
-Warhammer: The End Times - Vermintide,Action,0.03,0.03,0.0,0.01,0.07
-Batman: The Enemy Within,Adventure,0.05,0.0,0.0,0.01,0.07
-Atari Flashback Classics: Volume 1,Misc,0.05,0.0,0.0,0.01,0.07
-Legend of Kay Anniversary,Action,0.0,0.06,0.0,0.01,0.07
-Steins;Gate 0,Adventure,0.0,0.0,0.07,0.0,0.07
-ZombiU,Action,0.0,0.04,0.01,0.01,0.07
-Risen 3: Titan Lords,Role-Playing,0.0,0.06,0.0,0.01,0.07
-Mark McMorris Infinite Air,Sports,0.05,0.0,0.0,0.01,0.06
-Dead or Alive Xtreme 3: Fortune,Sports,0.0,0.0,0.06,0.0,0.06
-Birthdays the Beginning,Misc,0.05,0.0,0.0,0.01,0.06
-Rugby 18,Sports,0.05,0.0,0.0,0.01,0.06
-The Binding of Isaac,Misc,0.05,0.0,0.0,0.01,0.06
-Sherlock Holmes: The Devil's Daughter,Adventure,0.05,0.0,0.0,0.01,0.06
-Atelier Liddy and Soeur: Alchemists of the Mysterious Painting,Role-Playing,0.03,0.0,0.03,0.01,0.06
-MX vs. ATV Supercross Encore,Sports,0.0,0.05,0.0,0.01,0.06
-MX vs ATV Supercross Encore 2017 Track Edition,Racing,0.05,0.0,0.0,0.01,0.06
-Sword Art Online: Game Director's Edition,Role-Playing,0.0,0.0,0.06,0.0,0.06
-Deformers,Action,0.05,0.0,0.0,0.01,0.06
-Nobunaga no Yabou: Souzou,Strategy,0.0,0.0,0.06,0.0,0.06
-Dragon Quest X: All in One Package,Role-Playing,0.0,0.0,0.06,0.0,0.06
-Yomawari: Midnight Shadows,Action,0.02,0.0,0.04,0.0,0.06
-Game of Thrones (Telltale),Adventure,0.05,0.0,0.0,0.01,0.06
-Atari Flashback Classics: Volume 2,Misc,0.05,0.0,0.0,0.01,0.06
-Outcast: Second Contact,Adventure,0.05,0.0,0.0,0.01,0.06
-Cartoon Network Battle Crashers,Action,0.05,0.0,0.0,0.01,0.06
-Handball 16,Sports,0.0,0.05,0.0,0.01,0.06
-Extinction,Action,0.05,0.0,0.0,0.01,0.06
-Rugby World Cup 2015,Sports,0.0,0.05,0.0,0.01,0.06
-Exist Archive: The Other Side of the Sky,Role-Playing,0.02,0.0,0.03,0.0,0.06
-King's Quest: The Complete Collection,Adventure,0.05,0.0,0.0,0.01,0.06
-Sine Mora,Action,0.03,0.01,0.0,0.01,0.06
-Aven Colony,Strategy,0.04,0.01,0.0,0.01,0.06
-Battle Chasers: Nightwar,Role-Playing,0.03,0.02,0.0,0.01,0.06
-WRC 5: FIA World Rally Championship,Racing,0.0,0.05,0.0,0.01,0.06
-Black Mirror,Adventure,0.04,0.0,0.0,0.01,0.05
-Touhou Genso Wanderer,Action,0.04,0.0,0.0,0.01,0.05
-Arcania: Gothic 4,Role-Playing,0.04,0.0,0.0,0.01,0.05
-Starblood Arena VR,Shooter,0.04,0.0,0.0,0.01,0.05
-Hellblade,Action-Adventure,0.03,0.01,0.0,0.01,0.05
-Bubsy: The Woolies Strike Back,Platform,0.04,0.0,0.0,0.01,0.05
-Nitroplus Blasterz: Heroines Infinite Duel,Fighting,0.01,0.01,0.03,0.0,0.05
-Nobunaga's Ambition: Creation,Strategy,0.04,0.0,0.0,0.01,0.05
-Child of Light,Role-Playing,0.0,0.01,0.04,0.0,0.05
-Phantasy Star Online 2 Episode 4: Deluxe Package,Role-Playing,0.0,0.0,0.05,0.0,0.05
-Saints Row: Gat out of Hell,Action,0.0,0.04,0.0,0.01,0.05
-Werewolves Within,Misc,0.04,0.0,0.0,0.01,0.05
-Demon Gaze 2,Role-Playing,0.04,0.0,0.0,0.01,0.05
-Real Farm,Simulation,0.04,0.0,0.0,0.01,0.05
-Worms: WMD,Strategy,0.02,0.02,0.0,0.01,0.05
-Syberia III,Adventure,0.04,0.0,0.0,0.01,0.05
-Sengoku Basara: Sanada Yukimura-Den,Action,0.0,0.0,0.05,0.0,0.05
-Sengoku Basara 4: Sumeragi,Action,0.0,0.0,0.05,0.0,0.05
-S�bastien Loeb Rally Evo,Racing,0.0,0.04,0.0,0.01,0.05
-Don't Starve,Adventure,0.04,0.0,0.0,0.01,0.05
-Monster Jam: Crush It,Racing,0.04,0.0,0.0,0.01,0.05
-Prison Architect,Simulation,0.02,0.02,0.0,0.01,0.05
-Assault Suit Leynos,Shooter,0.04,0.0,0.0,0.01,0.05
-Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,Adventure,0.04,0.0,0.0,0.01,0.05
-Overcooked,Action,0.04,0.0,0.0,0.01,0.05
-Ben 10 (2017),Action,0.04,0.0,0.0,0.01,0.05
-Dead Alliance,Shooter,0.04,0.0,0.0,0.01,0.04
-Deer Hunter Reloaded,Shooter,0.04,0.0,0.0,0.01,0.04
-That's You,Party,0.04,0.0,0.0,0.01,0.04
-Raid: World War II,Shooter,0.04,0.0,0.0,0.01,0.04
-Hyperdimension Neptunia Victory II,Role-Playing,0.0,0.0,0.04,0.0,0.04
-Zero Escape The Nonary Games,Adventure,0.03,0.0,0.01,0.01,0.04
-Rugby Challenge 3,Sports,0.0,0.04,0.0,0.01,0.04
-Vikings: Wolves of Midgard,Action,0.03,0.01,0.0,0.01,0.04
-INSIDE / LIMBO Double Pack,Platform,0.04,0.0,0.0,0.01,0.04
-The Talos Principle,Puzzle,0.0,0.04,0.0,0.01,0.04
-Megadimension Neptunia VIIR,Role-Playing,0.01,0.0,0.03,0.0,0.04
-R.B.I. Baseball 2016,Sports,0.04,0.0,0.0,0.01,0.04
-Pure Farming 2018,Simulation,0.02,0.01,0.0,0.01,0.04
-Air Conflicts: Secret Wars,Simulation,0.03,0.0,0.0,0.01,0.04
-Anima - Gate of Memories,Action,0.01,0.02,0.0,0.01,0.04
-Axiom Verge,Action,0.03,0.0,0.0,0.01,0.04
-Unbox: Newbie's Adventure,Action,0.03,0.0,0.0,0.01,0.04
-Here They Lie,Adventure,0.0,0.03,0.0,0.01,0.04
-Under Night In-Birth Exe:Latest,Fighting,0.01,0.0,0.03,0.0,0.04
-Aragami,Action,0.03,0.0,0.0,0.01,0.04
-Yonder: The Cloud Catcher Chronicles,Action,0.03,0.0,0.0,0.01,0.04
-Assassin's Creed Chronicles: China,Action-Adventure,0.0,0.03,0.0,0.01,0.04
-JoJo's Bizarre Adventure: Eyes of Heaven,Fighting,0.0,0.0,0.04,0.0,0.04
-Dungeons 3,Strategy,0.03,0.0,0.0,0.01,0.04
-Tour de France 2014,Sports,0.0,0.03,0.0,0.01,0.04
-Danganronpa Another Episode: Ultra Despair Girls,Shooter,0.03,0.0,0.01,0.01,0.04
-Aegis of Earth: Protonovus Assault,Action,0.03,0.01,0.0,0.01,0.04
-Just Sing,Music,0.03,0.0,0.0,0.01,0.04
-Wonder Boy: The Dragon's Trap (Remake),Platform,0.03,0.0,0.0,0.01,0.04
-Lumo,Puzzle,0.03,0.0,0.0,0.01,0.04
-ABZU,Adventure,0.03,0.0,0.0,0.01,0.04
-Shadow Tactics: Blades of the Shogun,Strategy,0.02,0.01,0.0,0.01,0.04
-Darkest Dungeon,Role-Playing,0.02,0.0,0.01,0.01,0.04
-R.B.I. Baseball 2017,Sports,0.03,0.0,0.0,0.01,0.04
-Punch Line,Adventure,0.03,0.0,0.0,0.01,0.04
-VR Karts,Racing,0.03,0.0,0.0,0.01,0.04
-Resident Evil: Umbrella Corps,Shooter,0.0,0.0,0.04,0.0,0.04
-Marvel Pinball: Epic Collection Volume 1,Puzzle,0.03,0.0,0.0,0.01,0.04
-God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,Misc,0.0,0.0,0.04,0.0,0.04
-Infamous: First Light,Action,0.0,0.03,0.0,0.0,0.03
-Raiden V,Action,0.02,0.0,0.0,0.01,0.03
-The Peanuts Movie: Snoopy's Grand Adventure,Platform,0.0,0.03,0.0,0.0,0.03
-The Dwarves,Role-Playing,0.03,0.0,0.0,0.01,0.03
-Dynasty Warriors: Eiketsuden,Strategy,0.0,0.0,0.03,0.0,0.03
-Winning Post 8 2016,Simulation,0.0,0.0,0.03,0.0,0.03
-Dragon's Dogma Online: Season 2,Action,0.0,0.0,0.03,0.0,0.03
-Coven and Labyrinth of Refrain,Action,0.01,0.0,0.01,0.0,0.03
-Super Dungeon Bros,Action,0.02,0.0,0.0,0.01,0.03
-Blade Arcus from Shining EX,Fighting,0.0,0.0,0.03,0.0,0.03
-Troll and I,Action,0.02,0.0,0.0,0.01,0.03
-The Pillars of the Earth,Adventure,0.02,0.0,0.0,0.01,0.03
-The Lost Child,Action,0.01,0.0,0.01,0.0,0.03
-Romance of the Three Kingdoms 13 with Power-Up Kit,Misc,0.0,0.0,0.03,0.0,0.03
-Koihime Enbu,Fighting,0.0,0.0,0.03,0.0,0.03
-Road Rage,Racing,0.02,0.0,0.0,0.01,0.03
-Winning Post 8 2017,Misc,0.0,0.0,0.03,0.0,0.03
-Dino Dini's Kick Off Revival,Sports,0.0,0.02,0.0,0.0,0.03
-God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,Misc,0.0,0.0,0.03,0.0,0.03
-Tumblestone,Puzzle,0.02,0.0,0.0,0.01,0.03
-Blackguards 2,Strategy,0.02,0.0,0.0,0.01,0.03
-Baja: Edge of Control HD,Racing,0.02,0.0,0.0,0.01,0.03
-Crows: Burning Edge,Action,0.0,0.0,0.03,0.0,0.03
-Geometry Wars 3: Dimensions Evolved,Action,0.02,0.0,0.0,0.01,0.03
-We Sing (2016),Music,0.02,0.0,0.0,0.01,0.03
-Shin Hayarigami 2,Adventure,0.0,0.0,0.03,0.0,0.03
-The Town of Light,Adventure,0.02,0.0,0.0,0.01,0.03
-OlliOlli: Epic Combo Edition,Platform,0.02,0.0,0.0,0.01,0.03
-Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,Fighting,0.0,0.0,0.03,0.0,0.03
-This War of Mine,Action,0.0,0.02,0.0,0.0,0.03
-Ao no Kanata no Four Rhythm,Visual Novel,0.0,0.0,0.03,0.0,0.03
-Zero Escape: Zero Time Dilemma,Adventure,0.02,0.0,0.0,0.0,0.03
-AereA,Role-Playing,0.02,0.0,0.0,0.0,0.03
-Root Letter,Visual Novel,0.0,0.0,0.03,0.0,0.03
-ClaDun Sengoku,Action,0.02,0.0,0.0,0.0,0.03
-The Girl and the Robot,Action-Adventure,0.02,0.0,0.0,0.0,0.03
-Omega Quintet,Role-Playing,0.0,0.0,0.02,0.0,0.03
-Touhou Kobuto V: Burst Battle,Shooter,0.02,0.0,0.0,0.0,0.03
-God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,Action,0.0,0.0,0.02,0.0,0.02
-Rugby League Live 3,Sports,0.0,0.02,0.0,0.0,0.02
-Omega Labyrinth Z,Role-Playing,0.0,0.0,0.02,0.0,0.02
-Lost Sphear,Role-Playing,0.0,0.0,0.02,0.0,0.02
-Superbeat: Xonic,Music,0.02,0.0,0.0,0.0,0.02
-Republique,Action-Adventure,0.0,0.01,0.01,0.0,0.02
-Super Stardust Ultra VR,Shooter,0.0,0.02,0.0,0.0,0.02
-Redout,Racing,0.02,0.0,0.0,0.0,0.02
-Resident Evil: Value Pack,Action-Adventure,0.0,0.0,0.02,0.0,0.02
-God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,Action,0.0,0.0,0.02,0.0,0.02
-PaRappa the Rapper Remastered,Music,0.0,0.0,0.02,0.0,0.02
-Earth's Dawn,Action,0.02,0.0,0.0,0.0,0.02
-Big Buck Hunter Arcade,Shooter,0.02,0.0,0.0,0.0,0.02
-Dungeons 2,Role-Playing,0.02,0.0,0.0,0.0,0.02
-Tricky Towers,Puzzle,0.02,0.0,0.0,0.0,0.02
- No Heroes Allowed! VR,Strategy,0.0,0.0,0.02,0.0,0.02
-ArmaGallant: Decks of Destiny,Strategy,0.02,0.0,0.0,0.0,0.02
-Carmageddon: Max Damage,Action,0.02,0.0,0.0,0.0,0.02
-Armello,Strategy,0.02,0.0,0.0,0.0,0.02
-Shaq-Fu: A Legend Reborn,Action,0.02,0.0,0.0,0.0,0.02
-Patapon Remastered,Music,0.0,0.0,0.02,0.0,0.02
-Monster Hunter Frontier Z: Beginner's Package,Action,0.0,0.0,0.02,0.0,0.02
-Professional Farmer 2016,Simulation,0.0,0.02,0.0,0.0,0.02
-Natsuiro High School: Seishun Hakusho,Action,0.0,0.0,0.02,0.0,0.02
-The Inner World: The Last Wind Monk,Puzzle,0.02,0.0,0.0,0.0,0.02
-SteamWorld Collection,Misc,0.02,0.0,0.0,0.0,0.02
-Konoyo no Hate de Koi o Utau Shoujo: Yu-No,Visual Novel,0.0,0.0,0.02,0.0,0.02
-God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6,Misc,0.0,0.0,0.02,0.0,0.02
-Genkai Tokki: Castle Panzers,Role-Playing,0.0,0.0,0.02,0.0,0.02
-Skullgirls: 2nd Encore,Fighting,0.0,0.0,0.02,0.0,0.02
-This Is The Police,Simulation,0.01,0.0,0.0,0.0,0.02
-Rabbids Invasion: The Interactive TV Show,Misc,0.0,0.01,0.0,0.0,0.02
-FlatOut 4: Total Insanity,Racing,0.01,0.0,0.0,0.0,0.02
-Chaos;Child,Visual Novel,0.0,0.0,0.02,0.0,0.02
-Touhou Shinhiroku: Urban Legend in Limbo,Fighting,0.0,0.0,0.02,0.0,0.02
-Rogue Trooper: Redux,Shooter,0.01,0.0,0.0,0.0,0.02
-Space Hulk: Deathwing,Shooter,0.0,0.01,0.0,0.0,0.02
-Pharaonic,Action,0.01,0.0,0.0,0.0,0.02
-White Day,Action,0.0,0.01,0.01,0.0,0.02
-Torment: Tides of Numenera,Role-Playing,0.01,0.0,0.0,0.0,0.01
-Let It Die,Action,0.0,0.01,0.01,0.0,0.01
- Summer Lesson: Miyamoto Hikari Collection,Adventure,0.0,0.0,0.01,0.0,0.01
-Raven's Cry,Role-Playing,0.0,0.01,0.0,0.0,0.01
-New Game! The Challenge Stage!,Adventure,0.0,0.0,0.01,0.0,0.01
-Hakoniwa Company Works,Strategy,0.0,0.0,0.01,0.0,0.01
-DJ Max Respect,Misc,0.0,0.0,0.01,0.0,0.01
-Battle Worlds: Kronos,Strategy,0.01,0.0,0.0,0.0,0.01
-Dragon's Dogma Online: Season 3,Role-Playing,0.0,0.0,0.01,0.0,0.01
-Occultic;Nine,Adventure,0.0,0.0,0.01,0.0,0.01
-Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,Adventure,0.0,0.0,0.01,0.0,0.01
-Battle Garegga Rev.2016,Strategy,0.0,0.0,0.01,0.0,0.01
-Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set,Adventure,0.0,0.0,0.01,0.0,0.01
-Farming 2017 - The Simulation,Simulation,0.0,0.01,0.0,0.0,0.01
-Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,Adventure,0.0,0.0,0.01,0.0,0.01
-Zombie Vikings,Action,0.0,0.01,0.0,0.0,0.01
-ATV Renegades,Racing,0.01,0.0,0.0,0.0,0.01
-Ziggurat,Shooter,0.0,0.01,0.0,0.0,0.01
-Chaos;Child: Love Chu Chu!!,Visual Novel,0.0,0.0,0.01,0.0,0.01
-Moto Racer 4,Racing,0.01,0.0,0.0,0.0,0.01
-LocoRoco Remastered,Platform,0.0,0.0,0.01,0.0,0.01
-Lock's Quest,Strategy,0.01,0.0,0.0,0.0,0.01
-Gal Gun: Double Peace,Action,0.0,0.0,0.01,0.0,0.01
-Woodcutter Simulator 2016,Action,0.0,0.01,0.0,0.0,0.01
-Akiba's Trip 2+A,Adventure,0.0,0.0,0.01,0.0,0.01
-Date-A-Live Twin Edition: Rio Reincarnation,Adventure,0.0,0.0,0.01,0.0,0.01
-Valhalla Hills,Strategy,0.01,0.0,0.0,0.0,0.01
-Deception IV: Blood Ties,Action,0.0,0.0,0.01,0.0,0.01
-One Piece: Unlimited World Red,Action,0.0,0.0,0.01,0.0,0.01
-Hyper Light Drifter,Role-Playing,0.0,0.0,0.01,0.0,0.01
-Teslagrad,Platform,0.0,0.01,0.0,0.0,0.01
-Darius Burst: Chronicle Saviours,Action,0.0,0.0,0.01,0.0,0.01
-The Escapists: The Walking Dead,Action,0.0,0.0,0.0,0.0,0.01
-Super Meat Boy,Platform,0.0,0.0,0.0,0.0,0.01
+vg_name,genre,NA_sales,EU_sales,Japan_sales,Nonspec_sales,Tot_sales,is_duplicated
+Grand Theft Auto V,Action,6.06,9.71,0.6,3.02,19.39,0.0
+Call of Duty: Black Ops 3,Shooter,6.18,6.05,0.41,2.44,15.09,0.0
+Red Dead Redemption 2,Action-Adventure,5.26,6.21,0.21,2.26,13.94,0.0
+Call of Duty: WWII,Shooter,4.67,6.21,0.4,2.12,13.4,0.0
+FIFA 18,Sports,1.27,8.64,0.15,1.73,11.8,0.0
+FIFA 17,Sports,1.26,7.95,0.12,1.61,10.94,0.0
+Uncharted (PS4),Action,4.49,3.93,0.21,1.7,10.33,0.0
+Spider-Man (PS4),Action-Adventure,3.64,3.39,0.32,1.41,8.76,0.0
+Call of Duty: Infinite Warfare,Shooter,3.11,3.83,0.19,1.36,8.48,0.0
+Fallout 4,Role-Playing,2.91,3.97,0.27,1.34,8.48,0.0
+FIFA 16,Sports,1.15,5.77,0.07,1.23,8.22,0.0
+Star Wars Battlefront (2015),Shooter,3.31,3.19,0.23,1.3,8.03,0.0
+Call of Duty: Advanced Warfare,Shooter,2.84,3.34,0.14,1.22,7.53,0.0
+Battlefield 1,Shooter,2.2,3.65,0.29,1.12,7.26,0.0
+The Last of Us,Action-Adventure,2.7,2.86,0.11,1.1,6.77,0.0
+MineCraft,Misc,1.89,3.13,0.35,0.96,6.33,0.0
+FIFA 15,Sports,0.83,4.49,0.05,0.94,6.32,0.0
+God of War (PS4),Action,2.83,2.17,0.13,1.02,6.15,0.0
+Horizon: Zero Dawn,Action,2.2,2.43,0.28,0.92,5.82,0.0
+Destiny,Shooter,2.53,2.13,0.16,0.94,5.76,0.0
+Uncharted: The Nathan Drake Collection,Action,2.55,2.11,0.1,0.94,5.7,0.0
+The Witcher 3: Wild Hunt,Role-Playing,1.48,2.82,0.28,0.81,5.39,0.0
+Final Fantasy XV,Role-Playing,1.81,1.53,1.05,0.68,5.07,0.0
+Crash Bandicoot N. Sane Trilogy,Platform,1.09,2.92,0.07,0.74,4.83,0.0
+Monster Hunter: World,Action,1.03,1.06,2.17,0.42,4.67,0.0
+Overwatch,Shooter,1.84,1.8,0.17,0.73,4.54,0.0
+Star Wars Battlefront II (2017),Shooter,1.7,1.99,0.12,0.73,4.53,0.0
+Tom Clancy's The Division,Shooter,1.49,2.04,0.16,0.69,4.37,0.0
+Tom Clancy's Rainbow Six: Siege,Shooter,1.29,2.06,0.36,0.64,4.36,0.0
+Watch Dogs,Action-Adventure,1.4,2.13,0.11,0.68,4.32,0.0
+Call of Duty: Ghosts,Shooter,1.79,1.64,0.05,0.69,4.17,0.0
+Assassin's Creed: Unity,Action,1.25,2.16,0.09,0.65,4.14,0.0
+Destiny 2,Shooter,1.92,1.44,0.1,0.69,4.14,0.0
+Batman: Arkham Knight,Action,1.65,1.68,0.11,0.66,4.11,0.0
+Assassin's Creed Origins,Action,1.22,2.11,0.11,0.63,4.06,0.0
+Far Cry 4,Shooter,1.18,2.14,0.11,0.63,4.06,0.0
+NBA 2K16,Sports,2.56,0.66,0.05,0.71,3.98,0.0
+Far Cry 5,Action,1.44,1.73,0.15,0.62,3.95,0.0
+Battlefield 4,Shooter,1.4,1.74,0.19,0.62,3.94,0.0
+Gran Turismo Sport,Racing,0.63,2.35,0.24,0.54,3.77,0.0
+Assassin's Creed Syndicate,Action,0.9,2.06,0.08,0.55,3.6,0.0
+NBA 2K17,Sports,2.28,0.59,0.03,0.63,3.52,0.0
+Mortal Kombat X,Fighting,1.94,0.94,0.0,0.61,3.49,0.0
+FIFA Soccer 14,Sports,0.62,2.18,0.12,0.51,3.43,0.0
+The Elder Scrolls V: Skyrim,Role-Playing,1.24,1.5,0.08,0.54,3.36,0.0
+Watch Dogs 2,Action,0.98,1.74,0.12,0.52,3.36,0.0
+NBA 2K18,Sports,2.13,0.57,0.04,0.59,3.34,0.0
+Resident Evil VII: Biohazard,Action,0.88,1.56,0.41,0.46,3.31,0.0
+Madden NFL 16,Sports,2.39,0.31,0.0,0.61,3.3,0.0
+Madden NFL 17,Sports,2.3,0.37,0.0,0.6,3.28,0.0
+Middle-Earth: Shadow of Mordor,Action,1.03,1.6,0.05,0.51,3.19,0.0
+Assassin's Creed IV: Black Flag,Action-Adventure,1.07,1.55,0.06,0.51,3.19,0.0
+Tom Clancy's Ghost Recon Wildlands,Shooter,1.07,1.35,0.22,0.47,3.12,0.0
+Bloodborne,Role-Playing,1.3,1.05,0.28,0.48,3.11,0.0
+Metal Gear Solid V: The Phantom Pain,Action,0.97,1.15,0.5,0.42,3.04,0.0
+Killzone: Shadow Fall,Shooter,0.89,1.58,0.08,0.47,3.02,0.0
+inFAMOUS: Second Son,Action-Adventure,1.35,1.09,0.07,0.5,3.01,0.0
+Doom (2016),Shooter,0.93,1.48,0.04,0.46,2.92,0.0
+Mafia III,Action-Adventure,0.72,1.67,0.04,0.44,2.87,0.0
+Diablo III,Role-Playing,0.83,1.48,0.08,0.44,2.82,0.0
+Far Cry: Primal,Action-Adventure,0.63,1.61,0.07,0.41,2.73,0.0
+Need for Speed (2015),Racing,0.59,1.66,0.06,0.41,2.72,0.0
+Madden NFL 18,Sports,1.73,0.42,0.0,0.47,2.62,0.0
+NBA 2K15,Sports,1.49,0.55,0.01,0.44,2.49,0.0
+Dying Light,Action,1.18,0.74,0.13,0.4,2.45,0.0
+Dark Souls III,Role-Playing,1.0,0.63,0.44,0.34,2.42,0.0
+Ratchet & Clank (2016),Platform,0.97,0.97,0.06,0.39,2.38,0.0
+DriveClub,Racing,0.37,1.63,0.02,0.36,2.37,0.0
+Uncharted: The Lost Legacy,Action,0.58,1.38,0.04,0.36,2.37,0.0
+Dragon Age III: Inquisition,Role-Playing,1.07,0.8,0.08,0.38,2.34,0.0
+No Man's Sky,Action-Adventure,0.89,0.97,0.04,0.37,2.26,0.0
+Madden NFL 15,Sports,1.58,0.25,0.0,0.41,2.25,0.0
+Need for Speed: Payback,Racing,0.62,1.18,0.04,0.34,2.18,0.0
+Destiny: The Taken King,Shooter,0.97,0.8,0.05,0.36,2.18,0.0
+Need for Speed Rivals,Racing,0.75,1.04,0.03,0.35,2.17,0.0
+PlayStation VR Worlds,Misc,0.36,1.4,0.09,0.32,2.16,0.0
+Battlefield: Hardline,Shooter,0.72,0.97,0.14,0.33,2.15,0.0
+Rise of the Tomb Raider,Adventure,0.61,1.08,0.05,0.32,2.07,0.0
+LittleBigPlanet 3,Platform,0.78,0.93,0.01,0.34,2.06,0.0
+The Elder Scrolls Online,MMO,0.74,0.98,0.0,0.33,2.05,0.0
+Middle-Earth: Shadow of War,Action,0.82,0.84,0.06,0.33,2.04,0.0
+Dragon Quest XI,Role-Playing,0.29,0.22,1.43,0.1,2.04,0.0
+Rocket League,Sports,0.37,1.34,0.0,0.31,2.02,0.0
+Just Cause 3,Action-Adventure,0.53,1.07,0.09,0.3,1.98,0.0
+Dishonored 2,Action,0.62,1.02,0.01,0.31,1.97,0.0
+Lego Marvel Super Heroes,Action,0.59,1.0,0.01,0.3,1.91,0.0
+Until Dawn,Adventure,0.62,0.92,0.06,0.3,1.9,0.0
+Knack,Platform,0.45,0.77,0.42,0.23,1.88,0.0
+The Evil Within,Action,0.56,0.9,0.11,0.28,1.86,0.0
+The Crew,Racing,0.44,1.04,0.03,0.27,1.79,0.0
+Kingdom Hearts 1.5 + 2.5 Remix,Role-Playing,0.75,0.51,0.23,0.26,1.75,0.0
+For Honor,Action,0.73,0.66,0.07,0.28,1.75,0.0
+Titanfall 2,Shooter,0.75,0.62,0.06,0.28,1.72,0.0
+Injustice 2,Fighting,0.88,0.54,0.0,0.29,1.72,0.0
+NieR Automata,Role-Playing,0.56,0.51,0.42,0.22,1.71,0.0
+Tekken 7,Fighting,0.6,0.72,0.12,0.26,1.7,0.0
+Persona 5,Role-Playing,0.62,0.34,0.48,0.2,1.64,0.0
+The Order: 1886,Shooter,0.44,0.86,0.07,0.25,1.62,0.0
+Wolfenstein: The New Order,Shooter,0.48,0.84,0.03,0.25,1.61,0.0
+Detroit: Become Human,Adventure,0.55,0.67,0.12,0.24,1.57,0.0
+Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,0.71,0.47,0.12,0.24,1.54,0.0
+NBA 2K14,Sports,0.91,0.35,0.01,0.27,1.54,0.0
+Tomb Raider (2013),Action-Adventure,0.47,0.74,0.06,0.23,1.51,0.0
+Dragon Ball: Xenoverse 2,Action,0.54,0.59,0.14,0.23,1.5,0.0
+Rayman Legends,Platform,0.22,1.05,0.0,0.23,1.5,0.0
+Mass Effect: Andromeda,Role-Playing,0.58,0.67,0.0,0.25,1.49,0.0
+Dragon Ball Fighter Z,Fighting,0.61,0.51,0.12,0.23,1.46,0.0
+South Park: The Fractured But Whole,Role-Playing,0.62,0.57,0.0,0.24,1.43,0.0
+The Sims 4,Simulation,0.44,0.72,0.01,0.22,1.39,0.0
+Street Fighter V,Fighting,0.64,0.42,0.12,0.22,1.39,0.0
+Wolfenstein II: The New Colossus,Shooter,0.55,0.58,0.01,0.22,1.36,0.0
+WWE 2K18,Sports,0.45,0.67,0.0,0.22,1.33,0.0
+Lego Star Wars: The Force Awakens,Action-Adventure,0.3,0.78,0.02,0.2,1.31,0.0
+EA Sports UFC 2,Sports,0.44,0.65,0.0,0.21,1.31,0.0
+The Last Guardian,Action-Adventure,0.4,0.58,0.13,0.19,1.29,0.0
+WWE 2K16,Sports,0.43,0.65,0.0,0.21,1.29,0.0
+Borderlands: The Handsome Collection,Shooter,0.69,0.34,0.03,0.22,1.28,0.0
+Project CARS,Racing,0.29,0.76,0.04,0.19,1.28,0.0
+WWE 2K17,Sports,0.32,0.7,0.0,0.19,1.22,0.0
+Guitar Hero Live,Music,0.52,0.49,0.0,0.2,1.21,0.0
+Metal Gear Solid: Ground Zeroes,Action-Adventure,0.36,0.5,0.17,0.17,1.2,0.0
+Mad Max (2013),Action,0.38,0.59,0.05,0.19,1.2,0.0
+Shadow of the Colossus,Action-Adventure,0.44,0.52,0.05,0.19,1.2,0.0
+Kingdom Hearts HD 2.8 Final Chapter Prologue,Role-Playing,0.57,0.25,0.2,0.17,1.2,0.0
+Dragon Ball: XenoVerse,Fighting,0.33,0.55,0.14,0.17,1.19,0.0
+LEGO Dimensions,Action,0.48,0.5,0.0,0.2,1.18,0.0
+LEGO Jurassic World,Action,0.41,0.56,0.02,0.19,1.18,0.0
+WWE 2K15,Sports,0.4,0.57,0.0,0.19,1.16,0.0
+MLB The Show 17,Sports,0.94,0.0,0.0,0.22,1.16,0.0
+LEGO Worlds,Misc,0.21,0.72,0.04,0.17,1.14,0.0
+The Elder Scrolls V: Skyrim PSVR,Role-Playing,0.47,0.47,0.01,0.19,1.13,0.0
+LEGO Marvel Super Heroes 2,Action,0.33,0.6,0.0,0.18,1.11,0.0
+EA Sports UFC,Fighting,0.49,0.43,0.01,0.18,1.11,0.0
+Final Fantasy XII: The Zodiac Age,Role-Playing,0.37,0.41,0.16,0.15,1.1,0.0
+Alien: Isolation,Adventure,0.29,0.59,0.05,0.16,1.09,0.0
+MLB The Show 18,Sports,0.86,0.0,0.0,0.2,1.06,0.0
+The Evil Within II,Action,0.31,0.49,0.09,0.15,1.05,0.0
+Prey (2017),Shooter,0.25,0.62,0.02,0.16,1.04,0.0
+Final Fantasy Type-0,Role-Playing,0.4,0.33,0.16,0.15,1.04,0.0
+Ni-Oh,Action,0.34,0.36,0.2,0.14,1.03,0.0
+MLB 15: The Show,Sports,0.75,0.08,0.0,0.19,1.01,0.0
+Steep,Sports,0.23,0.6,0.02,0.15,1.01,0.0
+LEGO Marvel's Avengers,Action,0.31,0.53,0.01,0.16,1.01,0.0
+Evolve,Shooter,0.38,0.41,0.05,0.16,1.01,0.0
+Injustice: Gods Among Us,Fighting,0.46,0.35,0.0,0.17,0.98,0.0
+EA Sports UFC 3,Sports,0.4,0.41,0.01,0.16,0.97,0.0
+Madden NFL 25,Sports,0.64,0.15,0.0,0.17,0.96,0.0
+MLB 16: The Show,Sports,0.78,0.0,0.0,0.18,0.96,0.0
+Lego Batman 3: Beyond Gotham,Action,0.37,0.42,0.0,0.16,0.94,0.0
+Final Fantasy X/X-2 HD Remaster,Role-Playing,0.34,0.36,0.07,0.14,0.9,0.0
+Ni no Kuni II: Revenant Kingdom,Role-Playing,0.33,0.31,0.12,0.13,0.89,0.0
+God of War III,Action,0.4,0.33,0.02,0.15,0.89,0.0
+Fortnite,Action,0.42,0.32,0.0,0.15,0.89,0.0
+LEGO Harry Potter Collection,Action,0.07,0.68,0.0,0.13,0.88,0.0
+Minecraft: Story Mode,Adventure,0.31,0.42,0.0,0.14,0.87,0.0
+BioShock The Collection,Shooter,0.41,0.28,0.03,0.14,0.86,0.0
+Thief 4,Action,0.28,0.41,0.03,0.13,0.85,0.0
+Until Dawn: Rush of Blood,Shooter,0.5,0.21,0.0,0.15,0.85,0.0
+Disney Infinity 3.0,Action,0.31,0.4,0.0,0.14,0.85,0.0
+Farming Simulator 17,Simulation,0.19,0.52,0.01,0.13,0.85,0.0
+The Crew 2,Racing,0.22,0.42,0.05,0.12,0.82,0.0
+Pro Evolution Soccer 2016,Sports,0.14,0.43,0.14,0.1,0.82,0.0
+ARK: Survival Evolved,Action,0.28,0.29,0.14,0.11,0.81,0.0
+Dragon Quest Heroes: The World's Tree Woe and the Blight Below,Action,0.21,0.14,0.39,0.07,0.81,0.0
+Assassin's Creed The Ezio Collection,Action,0.14,0.52,0.02,0.12,0.79,0.0
+Final Fantasy XIV: A Realm Reborn,MMO,0.35,0.23,0.08,0.12,0.79,0.0
+Destiny: The Collection,Shooter,0.24,0.4,0.02,0.12,0.78,0.0
+F1 2016 (Codemasters),Racing,0.07,0.56,0.03,0.11,0.78,0.0
+Hitman (2016),Action,0.24,0.36,0.06,0.11,0.78,0.0
+Pro Evolution Soccer 2015,Sports,0.09,0.45,0.12,0.1,0.76,0.0
+LEGO City Undercover,Platform,0.17,0.46,0.01,0.12,0.75,0.0
+Pro Evolution Soccer 2018,Sports,0.12,0.36,0.19,0.09,0.75,0.0
+Disney Infinity 2.0: Marvel Super Heroes,Action-Adventure,0.37,0.25,0.0,0.13,0.75,0.0
+Pro Evolution Soccer 2017,Sports,0.08,0.41,0.18,0.09,0.75,0.0
+Sniper Elite 3,Shooter,0.25,0.37,0.0,0.12,0.74,0.0
+MLB 14 The Show,Sports,0.59,0.0,0.0,0.14,0.73,0.0
+WipEout Omega Collection,Racing,0.12,0.49,0.0,0.11,0.72,0.0
+Deus Ex: Mankind Divided,Role-Playing,0.25,0.34,0.01,0.12,0.72,0.0
+The LEGO Movie Videogame,Action-Adventure,0.26,0.32,0.01,0.11,0.71,0.0
+Marvel vs. Capcom: Infinite,Fighting,0.36,0.19,0.04,0.11,0.7,0.0
+Dark Souls II,Role-Playing,0.27,0.23,0.09,0.1,0.69,0.0
+Yakuza 6,Adventure,0.16,0.1,0.38,0.05,0.69,0.0
+F1 2015,Racing,0.1,0.45,0.04,0.1,0.68,0.0
+METRO 2033,Shooter,0.22,0.31,0.05,0.1,0.68,0.0
+Rocksmith 2014,Music,0.38,0.17,0.0,0.12,0.67,0.0
+NHL 16,Sports,0.38,0.16,0.0,0.12,0.66,0.0
+Plants vs Zombies: Garden Warfare,Shooter,0.24,0.3,0.01,0.11,0.66,0.0
+Tales of Berseria,Role-Playing,0.22,0.1,0.26,0.07,0.65,0.0
+Yakuza Zero: The Place of Oath,Adventure,0.22,0.16,0.19,0.08,0.65,0.0
+One Piece: Burning Blood,Fighting,0.21,0.26,0.09,0.09,0.65,0.0
+Batman: Return to Arkham,Action,0.15,0.39,0.01,0.1,0.64,0.0
+Plants vs. Zombies: Garden Warfare 2,Shooter,0.22,0.31,0.0,0.1,0.63,0.0
+LEGO The Hobbit,Action-Adventure,0.14,0.39,0.0,0.1,0.62,0.0
+World of Final Fantasy,Role-Playing,0.24,0.21,0.09,0.09,0.62,0.0
+F1 2017,Racing,0.04,0.47,0.02,0.09,0.62,0.0
+NHL 15,Sports,0.32,0.19,0.0,0.11,0.62,0.0
+Knowledge is Power,Party,0.05,0.47,0.0,0.09,0.61,0.0
+L.A. Noire,Adventure,0.18,0.32,0.0,0.1,0.6,0.0
+Hidden Agenda,Adventure,0.08,0.42,0.0,0.09,0.59,0.0
+Call of Duty: Modern Warfare Remastered,Shooter,0.17,0.3,0.03,0.09,0.58,0.0
+Dragon Quest Builders: Revive Alefgard,Role-Playing,0.12,0.17,0.24,0.06,0.58,0.0
+The Lego Ninjago Movie Videogame,Action,0.16,0.32,0.0,0.09,0.57,0.0
+Resident Evil: Revelations 2,Action,0.14,0.25,0.11,0.07,0.57,0.0
+Rock Band 4,Music,0.41,0.06,0.0,0.1,0.57,0.0
+NHL 18,Sports,0.31,0.16,0.0,0.1,0.57,0.0
+Everybody's Golf,Sports,0.12,0.22,0.17,0.06,0.56,0.0
+The Amazing Spider-Man 2 (2014),Action-Adventure,0.2,0.26,0.02,0.09,0.56,0.0
+DOOM VFR,Shooter,0.22,0.25,0.0,0.09,0.56,0.0
+Sonic Forces,Platform,0.15,0.31,0.01,0.09,0.56,0.0
+Kingdom Come: Deliverance,Role-Playing,0.18,0.28,0.0,0.09,0.56,0.0
+Lords of the Fallen,Role-Playing,0.2,0.24,0.02,0.09,0.55,0.0
+Sniper Elite 4,Shooter,0.21,0.25,0.0,0.09,0.55,0.0
+Rory McIlroy PGA Tour,Sports,0.19,0.27,0.0,0.09,0.55,0.0
+Project CARS 2,Racing,0.1,0.35,0.02,0.08,0.55,0.0
+Skylanders: Trap Team,Platform,0.25,0.18,0.0,0.09,0.52,0.0
+NHL 17,Sports,0.32,0.11,0.0,0.09,0.52,0.0
+One Piece: Pirate Warriors 3,Action,0.11,0.22,0.11,0.06,0.52,0.0
+DiRT Rally,Racing,0.13,0.3,0.0,0.08,0.51,0.0
+Homefront: The Revolution,Shooter,0.11,0.29,0.04,0.07,0.5,0.0
+Attack on Titan (KOEI),Action,0.08,0.24,0.12,0.06,0.5,0.0
+DiRT 4,Racing,0.1,0.3,0.02,0.07,0.49,0.0
+Farpoint,Shooter,0.0,0.38,0.04,0.06,0.48,0.0
+Battleborn,Shooter,0.25,0.12,0.03,0.08,0.48,0.0
+A Way Out,Action,0.23,0.16,0.0,0.08,0.48,0.0
+Friday the 13th: The Game,Action,0.29,0.09,0.03,0.08,0.48,0.0
+The Walking Dead: A Telltale Games Series,Adventure,0.12,0.26,0.03,0.07,0.48,0.0
+Wolfenstein: The Old Blood,Shooter,0.13,0.25,0.02,0.07,0.48,0.0
+Deadpool,Action,0.26,0.13,0.0,0.08,0.47,0.0
+Dragon Quest Heroes II: Twin Kings and the Prophecy's End,Action,0.05,0.09,0.3,0.03,0.47,0.0
+TrackMania Turbo,Racing,0.04,0.35,0.0,0.07,0.47,0.0
+Knack 2,Platform,0.14,0.25,0.01,0.07,0.47,0.0
+Just Dance 2014,Music,0.21,0.18,0.0,0.08,0.47,0.0
+Dissidia Final Fantasy NT,Fighting,0.19,0.06,0.16,0.05,0.46,0.0
+Skylanders: SuperChargers,Action-Adventure,0.29,0.09,0.0,0.08,0.45,0.0
+Yakuza Kiwami,Adventure,0.13,0.07,0.21,0.04,0.45,0.0
+Tales of Zestiria,Role-Playing,0.18,0.16,0.04,0.07,0.45,0.0
+Star Ocean 5: Integrity and Faithlessness,Role-Playing,0.1,0.13,0.16,0.05,0.45,0.0
+Sleeping Dogs,Action,0.16,0.21,0.0,0.07,0.44,0.0
+Skylanders SWAP Force,Misc,0.23,0.14,0.0,0.08,0.44,0.0
+Skylanders Imaginators,Platform,0.18,0.18,0.0,0.07,0.43,0.0
+Trials Fusion,Misc,0.13,0.23,0.01,0.07,0.43,0.0
+Saints Row IV,Action,0.15,0.18,0.03,0.06,0.42,0.0
+Dishonored,Action,0.12,0.21,0.02,0.06,0.42,0.0
+Mirror's Edge 2,Platform,0.13,0.19,0.03,0.06,0.42,0.0
+Farming Simulator 2015,Simulation,0.13,0.22,0.0,0.07,0.41,0.0
+Just Dance 2015,Music,0.21,0.13,0.0,0.07,0.41,0.0
+Sword Art Online: Hollow Realization,Role-Playing,0.18,0.06,0.12,0.05,0.41,0.0
+Just Dance 2016,Music,0.19,0.13,0.0,0.07,0.39,0.0
+Batman: Arkham VR,Action,0.32,0.0,0.0,0.07,0.39,0.0
+Little Nightmares,Platform,0.18,0.12,0.02,0.06,0.39,0.0
+Tropico 5,Simulation,0.07,0.18,0.08,0.05,0.38,0.0
+Life is Strange,Adventure,0.11,0.16,0.05,0.05,0.37,0.0
+Resident Evil Zero,Action-Adventure,0.07,0.18,0.07,0.05,0.37,0.0
+Yakuza Kiwami 2,Action,0.08,0.06,0.19,0.03,0.37,0.0
+Vampyr,Role-Playing,0.12,0.19,0.0,0.06,0.37,0.0
+Okami,Action,0.16,0.12,0.03,0.06,0.36,0.0
+Sniper: Ghost Warrior 3,Shooter,0.14,0.15,0.03,0.06,0.36,0.0
+Hokuto ga Gotoku,Action,0.09,0.05,0.18,0.03,0.36,0.0
+Sword Art Online: Lost Song,Role-Playing,0.19,0.11,0.0,0.06,0.36,0.0
+Disgaea 5: Alliance of Vengeance,Role-Playing,0.15,0.08,0.07,0.05,0.35,0.0
+Dead or Alive 5,Fighting,0.09,0.13,0.09,0.04,0.35,0.0
+Gravity Rush 2,Action-Adventure,0.13,0.05,0.13,0.04,0.35,0.0
+Odin Sphere: Leifthrasir,Role-Playing,0.14,0.07,0.09,0.04,0.34,0.0
+Divinity: Original Sin,Role-Playing,0.13,0.13,0.04,0.05,0.34,0.0
+The King of Fighters XIV,Fighting,0.21,0.02,0.06,0.05,0.34,0.0
+Dishonored: Death of the Outsider,Action,0.1,0.18,0.0,0.05,0.33,0.0
+Valkyria Chronicles,Role-Playing,0.14,0.08,0.08,0.04,0.33,0.0
+Murdered: Soul Suspect,Action-Adventure,0.09,0.17,0.02,0.05,0.33,0.0
+Payday 2,Shooter,0.12,0.14,0.0,0.05,0.32,0.0
+UEFA Euro 2016,Sports,0.0,0.22,0.05,0.04,0.31,0.0
+DmC: Devil May Cry,Action,0.12,0.13,0.0,0.05,0.31,0.0
+Sonic Mania,Platform,0.1,0.15,0.01,0.05,0.31,0.0
+J Stars Victory Vs.,Fighting,0.11,0.14,0.0,0.05,0.31,0.0
+XCOM 2,Strategy,0.16,0.1,0.0,0.05,0.31,0.0
+Dynasty Warriors 8: Xtreme Legends,Misc,0.09,0.12,0.06,0.04,0.31,0.0
+Cities: Skylines,Simulation,0.15,0.07,0.04,0.05,0.3,0.0
+Saint Seiya: Soldiers' Soul,Fighting,0.0,0.21,0.05,0.04,0.3,0.0
+Just Dance 2018,Music,0.1,0.15,0.0,0.05,0.3,0.0
+The Walking Dead: Season Two,Misc,0.13,0.09,0.03,0.05,0.3,0.0
+Sword Art Online: Fatal Bullet,Role-Playing,0.11,0.03,0.13,0.03,0.29,0.0
+Naruto to Boruto: Shinobi Striker,Action,0.19,0.03,0.02,0.05,0.29,0.0
+Yooka-Laylee,Platform,0.09,0.16,0.0,0.05,0.29,0.0
+Cars 3: Driven to Win,Racing,0.06,0.18,0.01,0.04,0.29,0.0
+Metal Gear Solid V: The Definitive Experience,Action,0.13,0.08,0.03,0.04,0.29,0.0
+Sherlock Holmes: Crimes & Punishments,Adventure,0.1,0.14,0.0,0.05,0.29,0.0
+Star Trek Bridge Crew VR,Action,0.11,0.12,0.0,0.05,0.28,0.0
+The Heavy Rain and Beyond: Two Souls Collection,Action,0.0,0.24,0.0,0.04,0.28,0.0
+Spintires: MudRunner,Simulation,0.11,0.12,0.0,0.05,0.28,0.0
+Onechanbara Z2: Chaos,Action,0.16,0.03,0.05,0.04,0.28,0.0
+Secret of Mana,Role-Playing,0.06,0.12,0.05,0.04,0.28,0.0
+Gundam Versus,Action,0.08,0.0,0.18,0.02,0.28,0.0
+NBA Live 14,Sports,0.17,0.05,0.0,0.05,0.27,0.0
+Bravo Team VR,Shooter,0.12,0.09,0.02,0.04,0.27,0.0
+Killing Floor 2 ,Shooter,0.19,0.03,0.0,0.05,0.27,0.0
+Robinson: The Journey,Action-Adventure,0.14,0.09,0.0,0.05,0.27,0.0
+DriveClub VR,Racing,0.12,0.09,0.01,0.04,0.27,0.0
+Fate/Extella: The Umbral Star,Action,0.12,0.0,0.12,0.03,0.27,0.0
+Ultimate Marvel vs. Capcom 3,Fighting,0.19,0.0,0.02,0.04,0.26,0.0
+New Danganronpa V3: Minna no Koroshiai Shin Gakki,Adventure,0.09,0.05,0.07,0.03,0.25,0.0
+Samurai Warriors 4,Fighting,0.08,0.07,0.06,0.03,0.25,0.0
+Darksiders III,Action,0.13,0.07,0.0,0.04,0.25,0.0
+NBA Live 15,Sports,0.16,0.04,0.0,0.04,0.25,0.0
+NBA Live 18,Sports,0.2,0.0,0.0,0.05,0.24,0.0
+Tearaway Unfolded,Platform,0.07,0.13,0.0,0.04,0.24,0.0
+.hack//G.U. Last Recode,Role-Playing,0.1,0.04,0.08,0.03,0.24,0.0
+Ride,Racing,0.04,0.13,0.03,0.03,0.24,0.0
+Just Dance 2017,Misc,0.08,0.12,0.0,0.04,0.24,0.0
+The Escapists 2,Action,0.04,0.16,0.0,0.04,0.24,0.0
+Transformers: Devastation,Action,0.11,0.09,0.0,0.04,0.24,0.0
+Darksiders II,Action-Adventure,0.1,0.1,0.0,0.04,0.24,0.0
+Jikkyou Powerful Pro Baseball 2016,Sports,0.0,0.0,0.24,0.0,0.24,0.0
+The Elder Scrolls Online: Morrowind,MMO,0.11,0.09,0.0,0.04,0.24,0.0
+Digimon World: Next Order,Role-Playing,0.13,0.05,0.02,0.04,0.24,0.0
+theHunter: Call of the Wild,Shooter,0.19,0.0,0.0,0.04,0.24,0.0
+Tony Hawk's Pro Skater 5,Sports,0.11,0.08,0.0,0.04,0.23,0.0
+Angry Birds: Star Wars,Puzzle,0.11,0.09,0.0,0.04,0.23,0.0
+Elex,Role-Playing,0.03,0.16,0.0,0.04,0.23,0.0
+RIGS: Mechanized Combat League,Action,0.11,0.06,0.02,0.04,0.23,0.0
+Transformer: Rise of the Dark Spark,Shooter,0.08,0.11,0.01,0.04,0.23,0.0
+Dead Island Definitive Collection,Action,0.09,0.08,0.03,0.03,0.23,0.0
+Metal Gear Survive,Action,0.08,0.06,0.05,0.03,0.23,0.0
+Singstar Celebration,Music,0.04,0.15,0.0,0.03,0.23,0.0
+Dead by Daylight,Action,0.11,0.06,0.02,0.04,0.22,0.0
+Attack on Titan 2,Action,0.09,0.04,0.06,0.03,0.22,0.0
+The Wolf Among Us,Adventure,0.11,0.07,0.0,0.04,0.22,0.0
+Micro Machines: World Series,Racing,0.03,0.16,0.0,0.03,0.22,0.0
+Bladestorm: Nightmare,Action,0.11,0.04,0.03,0.03,0.22,0.0
+Zombie Army Trilogy,Shooter,0.06,0.13,0.0,0.03,0.22,0.0
+Outlast Trinity,Action,0.09,0.09,0.0,0.04,0.22,0.0
+EVE: Valkyrie,Shooter,0.11,0.06,0.0,0.04,0.21,0.0
+Senran Kagura: Peach Beach Splash,Action,0.09,0.02,0.08,0.02,0.21,0.0
+Ys VIII: Lacrimosa of Dana,Role-Playing,0.08,0.04,0.08,0.02,0.21,0.0
+Bound By Flame,Action,0.08,0.09,0.0,0.04,0.21,0.0
+NBA Live 16,Sports,0.13,0.05,0.0,0.04,0.21,0.0
+7 Days to Die,Action,0.09,0.08,0.0,0.03,0.21,0.0
+Dynasty Warriors 8: Empires,Misc,0.07,0.07,0.04,0.03,0.21,0.0
+Dragon's Dogma,Role-Playing,0.07,0.07,0.03,0.03,0.21,0.0
+Godzilla (2015),Action,0.11,0.03,0.03,0.03,0.2,0.0
+Eagle Flight,Adventure,0.09,0.08,0.0,0.03,0.2,0.0
+Agents of Mayhem,Action,0.08,0.08,0.0,0.03,0.2,0.0
+MotoGP 14 ,Racing,0.05,0.11,0.0,0.03,0.2,0.0
+Elite: Dangerous,Simulation,0.06,0.1,0.0,0.03,0.19,0.0
+Singstar: Ultimate Party,Music,0.0,0.16,0.0,0.03,0.19,0.0
+Toukiden Kiwami,Action,0.06,0.07,0.03,0.03,0.19,0.0
+Batman: A Telltale Game Series,Adventure,0.09,0.07,0.0,0.03,0.19,0.0
+The Surge,Action,0.07,0.08,0.01,0.03,0.19,0.0
+MotoGP 15,Racing,0.0,0.13,0.04,0.02,0.18,0.0
+Resident Evil: Revelations,Action,0.06,0.06,0.04,0.02,0.18,0.0
+Senran Kagura: Estival Versus,Action,0.08,0.0,0.09,0.02,0.18,0.0
+Back to the Future: The Game,Adventure,0.1,0.05,0.0,0.03,0.18,0.0
+The Walking Dead - The Telltale Series: A New Frontier,Adventure,0.11,0.04,0.0,0.03,0.17,0.0
+Resident Evil 6,Shooter,0.1,0.0,0.05,0.02,0.17,0.0
+Final Fantasy XIV: Heavensward,MMO,0.0,0.09,0.06,0.02,0.17,0.0
+Final Fantasy XIV: Stormblood,MMO,0.05,0.06,0.04,0.02,0.17,0.0
+Guilty Gear Xrd: Sign,Fighting,0.11,0.0,0.04,0.02,0.17,0.0
+Prototype: Biohazard Bundle,Action,0.14,0.0,0.0,0.03,0.17,0.0
+BlazBlue Central Fiction,Fighting,0.1,0.0,0.05,0.02,0.17,0.0
+MXGP 3: The Official Motocross Videogame,Racing,0.06,0.08,0.0,0.03,0.17,0.0
+Ride 2,Racing,0.07,0.06,0.01,0.03,0.16,0.0
+Dead Rising 4,Action-Adventure,0.08,0.05,0.0,0.03,0.16,0.0
+Putty Squad,Platform,0.06,0.07,0.0,0.03,0.16,0.0
+Digimon Story: Cyber Sleuth - Hacker's Memory,Role-Playing,0.05,0.05,0.04,0.02,0.16,0.0
+Battlezone,Action,0.09,0.04,0.0,0.03,0.16,0.0
+Naruto Shippuden: Ultimate Ninja Storm Legacy,Fighting,0.07,0.04,0.03,0.02,0.16,0.0
+Berserk and the Band of the Hawk,Action,0.07,0.02,0.05,0.02,0.16,0.0
+BlazBlue: Chrono Phantasma Extend,Fighting,0.08,0.04,0.02,0.02,0.16,0.0
+Pillars of Eternity,Role-Playing,0.11,0.02,0.0,0.03,0.16,0.0
+Valkyria: Azure Revolution,Role-Playing,0.04,0.03,0.07,0.02,0.16,0.0
+Gravity Rush Remastered,Action-Adventure,0.02,0.06,0.05,0.02,0.16,0.0
+Psycho-Pass: Mandatory Happiness,Visual Novel,0.1,0.02,0.0,0.03,0.15,0.0
+Brothers: A Tale of Two Sons,Adventure,0.04,0.09,0.0,0.02,0.15,0.0
+Warriors Orochi 3,Action,0.04,0.05,0.04,0.02,0.15,0.0
+Wasteland 2,Role-Playing,0.1,0.0,0.03,0.02,0.15,0.0
+Atelier Sophie: The Alchemist of the Mysterious Book,Role-Playing,0.04,0.03,0.07,0.01,0.15,0.0
+NASCAR Heat Evolution,Racing,0.12,0.0,0.0,0.03,0.15,0.0
+Yakuza: Ishin,Adventure,0.0,0.0,0.15,0.0,0.15,0.0
+Toukiden 2,Action,0.04,0.0,0.1,0.01,0.15,0.0
+Song of the Deep,Action,0.12,0.0,0.0,0.03,0.15,0.0
+Super Robot Wars V,Role-Playing,0.0,0.0,0.15,0.0,0.15,0.0
+Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,Role-Playing,0.07,0.0,0.06,0.02,0.14,0.0
+Yonmegami Online: Cyber Dimension Neptune,Role-Playing,0.06,0.0,0.07,0.01,0.14,0.0
+Grand Kingdom,Role-Playing,0.08,0.0,0.04,0.02,0.14,0.0
+Arslan: The Warriors of Legend,Action,0.03,0.04,0.06,0.01,0.14,0.0
+Pro Cycling Manager 2016,Sports,0.0,0.12,0.0,0.02,0.14,0.0
+Shovel Knight,Platform,0.08,0.04,0.0,0.02,0.14,0.0
+Adventure Time: Finn & Jake Investigations,Action,0.07,0.05,0.0,0.02,0.14,0.0
+Guilty Gear Xrd -Revelator-,Fighting,0.06,0.0,0.07,0.01,0.14,0.0
+We Happy Few,Action-Adventure,0.08,0.04,0.0,0.02,0.14,0.0
+Rocksmith 2014 Edition Remastered,Music,0.11,0.0,0.0,0.03,0.14,0.0
+The Crew: Wild Run,Racing,0.0,0.12,0.0,0.02,0.14,0.0
+MXGP 2,Racing,0.05,0.06,0.0,0.02,0.14,0.0
+MotoGP 17,Racing,0.04,0.07,0.0,0.02,0.14,0.0
+Fairy Fencer F: Advent Dark Force,Role-Playing,0.06,0.0,0.06,0.01,0.14,0.0
+Samurai Warriors 4-II,Action,0.04,0.02,0.07,0.01,0.13,0.0
+The Golf Club,Sports,0.09,0.02,0.0,0.02,0.13,0.0
+Hatsune Miku: Project Diva X,Music,0.08,0.0,0.04,0.02,0.13,0.0
+NASCAR Heat 2,Racing,0.11,0.0,0.0,0.02,0.13,0.0
+Bulletstorm: Full Clip Edition,Shooter,0.05,0.06,0.0,0.02,0.13,0.0
+Valentino Rossi: The Game,Racing,0.05,0.05,0.0,0.02,0.13,0.0
+Golf Club 2,Sports,0.05,0.06,0.0,0.02,0.13,0.0
+Akiba's Trip 2,Action,0.09,0.0,0.02,0.02,0.13,0.0
+Rugby 15,Sports,0.05,0.06,0.0,0.02,0.13,0.0
+Utawarerumono: Futari no Hakuoro,Visual Novel,0.05,0.0,0.07,0.01,0.13,0.0
+The Legend of Heroes: Trails of Cold Steel III,Role-Playing,0.0,0.0,0.13,0.0,0.13,0.0
+Utawarerumono: Itsuwari no Kamen,Adventure,0.05,0.0,0.07,0.01,0.13,0.0
+The Inpatient,Action,0.06,0.05,0.0,0.02,0.13,0.0
+Don Bradman Cricket 14,Sports,0.01,0.09,0.0,0.02,0.13,0.0
+Sword Art Online: Hollow Fragment,Role-Playing,0.0,0.11,0.0,0.02,0.12,0.0
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,0.07,0.03,0.0,0.02,0.12,0.0
+Job Simulator,Simulation,0.1,0.0,0.0,0.02,0.12,0.0
+Portal Knights,Role-Playing,0.02,0.05,0.03,0.01,0.12,0.0
+Samurai Warriors 4: Empires,Action,0.03,0.01,0.07,0.01,0.12,0.0
+Danganronpa 1o2 Reload,Adventure,0.08,0.0,0.02,0.02,0.12,0.0
+God Eater 2: Rage Burst,Role-Playing,0.0,0.01,0.11,0.0,0.12,0.0
+America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,Misc,0.1,0.0,0.0,0.02,0.12,0.0
+Marvel's Guardians of the Galaxy: The Telltale Series,Adventure,0.06,0.04,0.0,0.02,0.12,0.0
+Digimon Story: Cyber Sleuth,Role-Playing,0.0,0.1,0.0,0.02,0.11,0.0
+Constructor HD,Strategy,0.09,0.0,0.0,0.02,0.11,0.0
+Minecraft: Story Mode - Season Two,Adventure,0.09,0.0,0.0,0.02,0.11,0.0
+Darksiders: Warmastered Edition,Action-Adventure,0.07,0.02,0.0,0.02,0.11,0.0
+Mighty No. 9,Platform,0.09,0.0,0.0,0.02,0.11,0.0
+The Invisible Hours,Adventure,0.09,0.0,0.0,0.02,0.11,0.0
+Monster Energy Supercross - The Official Videogame,Racing,0.08,0.01,0.0,0.02,0.11,0.0
+The Idolmaster: Platinum Stars,Simulation,0.0,0.0,0.11,0.0,0.11,0.0
+The Witch and the Hundred Knight,Role-Playing,0.03,0.01,0.06,0.01,0.11,0.0
+SD Gundam G Generation Genesis,Strategy,0.0,0.0,0.11,0.0,0.11,0.0
+Rime,Adventure,0.02,0.07,0.0,0.02,0.11,0.0
+Super Robot Wars OG: The Moon Dwellers,Misc,0.0,0.0,0.11,0.0,0.11,0.0
+Gundam Breaker 3,Action,0.0,0.0,0.11,0.0,0.11,0.0
+Earth Defense Force 2025.1: The Shadow of New Despair,Shooter,0.0,0.0,0.11,0.0,0.11,0.0
+Shadow Warrior (2013),Shooter,0.0,0.09,0.0,0.02,0.11,0.0
+Assassin's Creed Chronicles,Action,0.02,0.05,0.02,0.01,0.11,0.0
+Mega Man Legacy Collection,Platform,0.09,0.0,0.0,0.02,0.11,0.0
+Pac-Man Championship Edition 2 + Arcade Game Series,Action,0.08,0.0,0.0,0.02,0.1,0.0
+Tokyo Xanadu eX+,Role-Playing,0.05,0.0,0.05,0.01,0.1,0.0
+Stardew Valley,Simulation,0.04,0.04,0.0,0.02,0.1,0.0
+Romance of the Three Kingdoms 13,Action,0.03,0.0,0.06,0.01,0.1,0.0
+Musou Stars,Action,0.03,0.0,0.06,0.01,0.1,0.0
+Mega Man Legacy Collection 2,Action,0.06,0.0,0.02,0.01,0.1,0.0
+Final Fantasy XIV Online Complete Edition,MMO,0.07,0.0,0.02,0.02,0.1,0.0
+Devil May Cry 4,Action,0.01,0.0,0.09,0.0,0.1,0.0
+Puyo Puyo Tetris,Puzzle,0.05,0.03,0.0,0.02,0.1,0.0
+Natural Doctrine,Role-Playing,0.05,0.02,0.02,0.01,0.1,0.0
+Sudden Strike 4,Strategy,0.05,0.03,0.01,0.02,0.1,0.0
+Accel World vs. Sword Art Online: Millennium Twilight,Action,0.0,0.03,0.06,0.01,0.1,0.0
+Wolfenstein The Two Pack,Shooter,0.08,0.0,0.0,0.02,0.1,0.0
+Guilty Gear Xrd REV 2,Fighting,0.04,0.01,0.03,0.01,0.1,0.0
+Ultra Street Fighter IV,Fighting,0.0,0.08,0.0,0.01,0.1,0.0
+Let's Sing 2016,Music,0.08,0.0,0.0,0.02,0.1,0.0
+Resident Evil 4 HD,Action-Adventure,0.07,0.0,0.01,0.02,0.1,0.0
+Nights of Azure 2,Action,0.04,0.0,0.04,0.01,0.09,0.0
+The Technomancer,Role-Playing,0.04,0.04,0.0,0.02,0.09,0.0
+Nights of Azure,Action,0.04,0.04,0.0,0.02,0.09,0.0
+Taiko no Tatsujin: Drum Session!,Music,0.0,0.0,0.09,0.0,0.09,0.0
+Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,Strategy,0.03,0.0,0.06,0.01,0.09,0.0
+Grand Ages: Medieval,Strategy,0.0,0.05,0.03,0.01,0.09,0.0
+Rugby League Live 4,Sports,0.0,0.08,0.0,0.01,0.09,0.0
+Toy Soldiers: War Chest,Action,0.07,0.0,0.0,0.02,0.09,0.0
+God Eater Resurrection,Action,0.0,0.0,0.09,0.0,0.09,0.0
+Paragon,Action,0.07,0.0,0.0,0.02,0.09,0.0
+Summon Night 6: Lost Borders,Role-Playing,0.03,0.0,0.05,0.01,0.09,0.0
+Black Rose Valkyrie,Role-Playing,0.04,0.0,0.04,0.01,0.09,0.0
+Duke Nukem 3D: 20th Anniversary World Tour,Shooter,0.07,0.0,0.0,0.02,0.09,0.0
+ATV Drift & Tricks,Racing,0.07,0.0,0.0,0.02,0.09,0.0
+Yoru no Nai Kuni,Role-Playing,0.0,0.0,0.09,0.0,0.09,0.0
+Lara Croft and the Temple of Osiris,Action,0.0,0.07,0.0,0.01,0.09,0.0
+Dragon's Dogma Online,Role-Playing,0.0,0.0,0.09,0.0,0.09,0.0
+Ghostbusters (2016),Action,0.07,0.0,0.0,0.02,0.08,0.0
+Agatha Christie's The ABC Murders,Adventure,0.05,0.02,0.0,0.02,0.08,0.0
+Shantae: Half-Genie Hero,Platform,0.06,0.0,0.01,0.01,0.08,0.0
+Earth Defense Force 4.1: The Shadow of New Despair,Shooter,0.05,0.02,0.0,0.01,0.08,0.0
+The Sexy Brutale,Adventure,0.05,0.02,0.0,0.01,0.08,0.0
+Legend of Kay,Action,0.03,0.03,0.0,0.01,0.08,0.0
+Hasbro Family Fun Pack Conquest Edition,Misc,0.07,0.0,0.0,0.02,0.08,0.0
+Loading Human,Adventure,0.05,0.02,0.0,0.01,0.08,0.0
+Rapala Fishing Pro Series,Simulation,0.06,0.0,0.0,0.02,0.08,0.0
+Atelier Firis: The Alchemist of the Mysterious Journey,Role-Playing,0.02,0.0,0.05,0.01,0.08,0.0
+Dead Rising,Action,0.04,0.0,0.02,0.01,0.08,0.0
+Assetto Corsa,Racing,0.0,0.06,0.01,0.01,0.08,0.0
+Akiba's Beat,Action,0.05,0.0,0.01,0.01,0.08,0.0
+WRC 6,Racing,0.03,0.02,0.01,0.01,0.08,0.0
+God Wars: Future Past,Role-Playing,0.03,0.01,0.02,0.01,0.07,0.0
+Resident Evil 5 HD,Action,0.05,0.0,0.01,0.01,0.07,0.0
+The Witch and the Hundred Knights 2,Role-Playing,0.03,0.0,0.03,0.01,0.07,0.0
+Samurai Warriors: Sanada Maru,Action,0.02,0.0,0.05,0.01,0.07,0.0
+Project Setsuna,Role-Playing,0.0,0.0,0.07,0.0,0.07,0.0
+Has-Been Heroes,Action,0.06,0.0,0.0,0.01,0.07,0.0
+Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,Misc,0.0,0.0,0.07,0.0,0.07,0.0
+Styx: Shards of Darknes,Action,0.06,0.0,0.0,0.01,0.07,0.0
+Dead Rising 2,Action,0.04,0.0,0.02,0.01,0.07,0.0
+The Book of Unwritten Tales 2,Adventure,0.0,0.06,0.0,0.01,0.07,0.0
+Touhou Genso Rondo: Bullet Ballet,Shooter,0.06,0.0,0.0,0.01,0.07,0.0
+The Walking Dead: A Telltale Series Collection,Adventure,0.06,0.0,0.0,0.01,0.07,0.0
+The Silver Case,Visual Novel,0.05,0.0,0.01,0.01,0.07,0.0
+Hunting Simulator,Shooter,0.06,0.0,0.0,0.01,0.07,0.0
+WRC 7,Racing,0.06,0.0,0.0,0.01,0.07,0.0
+Kamen Rider: Battride War Genesis,Action,0.0,0.0,0.07,0.0,0.07,0.0
+Le Tour de France 2017,Simulation,0.0,0.06,0.0,0.01,0.07,0.0
+ City Shrouded in Shadow,Action-Adventure,0.0,0.0,0.07,0.0,0.07,0.0
+SG/ZH: School Girl/Zombie Hunter,Action,0.04,0.0,0.02,0.01,0.07,0.0
+Broken Sword 5: The Serpent's Curse,Adventure,0.0,0.06,0.0,0.01,0.07,0.0
+Terraria,Action,0.0,0.05,0.01,0.01,0.07,0.0
+Warhammer: The End Times - Vermintide,Action,0.03,0.03,0.0,0.01,0.07,0.0
+Batman: The Enemy Within,Adventure,0.05,0.0,0.0,0.01,0.07,0.0
+Atari Flashback Classics: Volume 1,Misc,0.05,0.0,0.0,0.01,0.07,0.0
+Legend of Kay Anniversary,Action,0.0,0.06,0.0,0.01,0.07,0.0
+Steins;Gate 0,Adventure,0.0,0.0,0.07,0.0,0.07,0.0
+ZombiU,Action,0.0,0.04,0.01,0.01,0.07,0.0
+Risen 3: Titan Lords,Role-Playing,0.0,0.06,0.0,0.01,0.07,0.0
+Mark McMorris Infinite Air,Sports,0.05,0.0,0.0,0.01,0.06,0.0
+Dead or Alive Xtreme 3: Fortune,Sports,0.0,0.0,0.06,0.0,0.06,0.0
+Birthdays the Beginning,Misc,0.05,0.0,0.0,0.01,0.06,0.0
+Rugby 18,Sports,0.05,0.0,0.0,0.01,0.06,0.0
+The Binding of Isaac,Misc,0.05,0.0,0.0,0.01,0.06,0.0
+Sherlock Holmes: The Devil's Daughter,Adventure,0.05,0.0,0.0,0.01,0.06,0.0
+Atelier Liddy and Soeur: Alchemists of the Mysterious Painting,Role-Playing,0.03,0.0,0.03,0.01,0.06,0.0
+MX vs. ATV Supercross Encore,Sports,0.0,0.05,0.0,0.01,0.06,0.0
+MX vs ATV Supercross Encore 2017 Track Edition,Racing,0.05,0.0,0.0,0.01,0.06,0.0
+Sword Art Online: Game Director's Edition,Role-Playing,0.0,0.0,0.06,0.0,0.06,0.0
+Deformers,Action,0.05,0.0,0.0,0.01,0.06,0.0
+Nobunaga no Yabou: Souzou,Strategy,0.0,0.0,0.06,0.0,0.06,0.0
+Dragon Quest X: All in One Package,Role-Playing,0.0,0.0,0.06,0.0,0.06,0.0
+Yomawari: Midnight Shadows,Action,0.02,0.0,0.04,0.0,0.06,0.0
+Game of Thrones (Telltale),Adventure,0.05,0.0,0.0,0.01,0.06,0.0
+Atari Flashback Classics: Volume 2,Misc,0.05,0.0,0.0,0.01,0.06,0.0
+Outcast: Second Contact,Adventure,0.05,0.0,0.0,0.01,0.06,0.0
+Cartoon Network Battle Crashers,Action,0.05,0.0,0.0,0.01,0.06,0.0
+Handball 16,Sports,0.0,0.05,0.0,0.01,0.06,0.0
+Extinction,Action,0.05,0.0,0.0,0.01,0.06,0.0
+Rugby World Cup 2015,Sports,0.0,0.05,0.0,0.01,0.06,0.0
+Exist Archive: The Other Side of the Sky,Role-Playing,0.02,0.0,0.03,0.0,0.06,0.0
+King's Quest: The Complete Collection,Adventure,0.05,0.0,0.0,0.01,0.06,0.0
+Sine Mora,Action,0.03,0.01,0.0,0.01,0.06,0.0
+Aven Colony,Strategy,0.04,0.01,0.0,0.01,0.06,0.0
+Battle Chasers: Nightwar,Role-Playing,0.03,0.02,0.0,0.01,0.06,0.0
+WRC 5: FIA World Rally Championship,Racing,0.0,0.05,0.0,0.01,0.06,0.0
+Black Mirror,Adventure,0.04,0.0,0.0,0.01,0.05,0.0
+Touhou Genso Wanderer,Action,0.04,0.0,0.0,0.01,0.05,0.0
+Arcania: Gothic 4,Role-Playing,0.04,0.0,0.0,0.01,0.05,0.0
+Starblood Arena VR,Shooter,0.04,0.0,0.0,0.01,0.05,0.0
+Hellblade,Action-Adventure,0.03,0.01,0.0,0.01,0.05,0.0
+Bubsy: The Woolies Strike Back,Platform,0.04,0.0,0.0,0.01,0.05,0.0
+Nitroplus Blasterz: Heroines Infinite Duel,Fighting,0.01,0.01,0.03,0.0,0.05,0.0
+Nobunaga's Ambition: Creation,Strategy,0.04,0.0,0.0,0.01,0.05,0.0
+Child of Light,Role-Playing,0.0,0.01,0.04,0.0,0.05,0.0
+Phantasy Star Online 2 Episode 4: Deluxe Package,Role-Playing,0.0,0.0,0.05,0.0,0.05,0.0
+Saints Row: Gat out of Hell,Action,0.0,0.04,0.0,0.01,0.05,0.0
+Werewolves Within,Misc,0.04,0.0,0.0,0.01,0.05,0.0
+Demon Gaze 2,Role-Playing,0.04,0.0,0.0,0.01,0.05,0.0
+Real Farm,Simulation,0.04,0.0,0.0,0.01,0.05,0.0
+Worms: WMD,Strategy,0.02,0.02,0.0,0.01,0.05,0.0
+Syberia III,Adventure,0.04,0.0,0.0,0.01,0.05,0.0
+Sengoku Basara: Sanada Yukimura-Den,Action,0.0,0.0,0.05,0.0,0.05,0.0
+Sengoku Basara 4: Sumeragi,Action,0.0,0.0,0.05,0.0,0.05,0.0
+S�bastien Loeb Rally Evo,Racing,0.0,0.04,0.0,0.01,0.05,0.0
+Don't Starve,Adventure,0.04,0.0,0.0,0.01,0.05,0.0
+Monster Jam: Crush It,Racing,0.04,0.0,0.0,0.01,0.05,0.0
+Prison Architect,Simulation,0.02,0.02,0.0,0.01,0.05,0.0
+Assault Suit Leynos,Shooter,0.04,0.0,0.0,0.01,0.05,0.0
+Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,Adventure,0.04,0.0,0.0,0.01,0.05,0.0
+Overcooked,Action,0.04,0.0,0.0,0.01,0.05,0.0
+Ben 10 (2017),Action,0.04,0.0,0.0,0.01,0.05,0.0
+Dead Alliance,Shooter,0.04,0.0,0.0,0.01,0.04,0.0
+Deer Hunter Reloaded,Shooter,0.04,0.0,0.0,0.01,0.04,0.0
+That's You,Party,0.04,0.0,0.0,0.01,0.04,0.0
+Raid: World War II,Shooter,0.04,0.0,0.0,0.01,0.04,0.0
+Hyperdimension Neptunia Victory II,Role-Playing,0.0,0.0,0.04,0.0,0.04,0.0
+Zero Escape The Nonary Games,Adventure,0.03,0.0,0.01,0.01,0.04,0.0
+Rugby Challenge 3,Sports,0.0,0.04,0.0,0.01,0.04,0.0
+Vikings: Wolves of Midgard,Action,0.03,0.01,0.0,0.01,0.04,0.0
+INSIDE / LIMBO Double Pack,Platform,0.04,0.0,0.0,0.01,0.04,0.0
+The Talos Principle,Puzzle,0.0,0.04,0.0,0.01,0.04,0.0
+Megadimension Neptunia VIIR,Role-Playing,0.01,0.0,0.03,0.0,0.04,0.0
+R.B.I. Baseball 2016,Sports,0.04,0.0,0.0,0.01,0.04,0.0
+Pure Farming 2018,Simulation,0.02,0.01,0.0,0.01,0.04,0.0
+Air Conflicts: Secret Wars,Simulation,0.03,0.0,0.0,0.01,0.04,0.0
+Anima - Gate of Memories,Action,0.01,0.02,0.0,0.01,0.04,0.0
+Axiom Verge,Action,0.03,0.0,0.0,0.01,0.04,0.0
+Unbox: Newbie's Adventure,Action,0.03,0.0,0.0,0.01,0.04,0.0
+Here They Lie,Adventure,0.0,0.03,0.0,0.01,0.04,0.0
+Under Night In-Birth Exe:Latest,Fighting,0.01,0.0,0.03,0.0,0.04,0.0
+Aragami,Action,0.03,0.0,0.0,0.01,0.04,0.0
+Yonder: The Cloud Catcher Chronicles,Action,0.03,0.0,0.0,0.01,0.04,0.0
+Assassin's Creed Chronicles: China,Action-Adventure,0.0,0.03,0.0,0.01,0.04,0.0
+JoJo's Bizarre Adventure: Eyes of Heaven,Fighting,0.0,0.0,0.04,0.0,0.04,0.0
+Dungeons 3,Strategy,0.03,0.0,0.0,0.01,0.04,0.0
+Tour de France 2014,Sports,0.0,0.03,0.0,0.01,0.04,0.0
+Danganronpa Another Episode: Ultra Despair Girls,Shooter,0.03,0.0,0.01,0.01,0.04,0.0
+Aegis of Earth: Protonovus Assault,Action,0.03,0.01,0.0,0.01,0.04,0.0
+Just Sing,Music,0.03,0.0,0.0,0.01,0.04,0.0
+Wonder Boy: The Dragon's Trap (Remake),Platform,0.03,0.0,0.0,0.01,0.04,0.0
+Lumo,Puzzle,0.03,0.0,0.0,0.01,0.04,0.0
+ABZU,Adventure,0.03,0.0,0.0,0.01,0.04,0.0
+Shadow Tactics: Blades of the Shogun,Strategy,0.02,0.01,0.0,0.01,0.04,0.0
+Darkest Dungeon,Role-Playing,0.02,0.0,0.01,0.01,0.04,0.0
+R.B.I. Baseball 2017,Sports,0.03,0.0,0.0,0.01,0.04,0.0
+Punch Line,Adventure,0.03,0.0,0.0,0.01,0.04,0.0
+VR Karts,Racing,0.03,0.0,0.0,0.01,0.04,0.0
+Resident Evil: Umbrella Corps,Shooter,0.0,0.0,0.04,0.0,0.04,0.0
+Marvel Pinball: Epic Collection Volume 1,Puzzle,0.03,0.0,0.0,0.01,0.04,0.0
+God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,Misc,0.0,0.0,0.04,0.0,0.04,0.0
+Infamous: First Light,Action,0.0,0.03,0.0,0.0,0.03,0.0
+Raiden V,Action,0.02,0.0,0.0,0.01,0.03,0.0
+The Peanuts Movie: Snoopy's Grand Adventure,Platform,0.0,0.03,0.0,0.0,0.03,0.0
+The Dwarves,Role-Playing,0.03,0.0,0.0,0.01,0.03,0.0
+Dynasty Warriors: Eiketsuden,Strategy,0.0,0.0,0.03,0.0,0.03,0.0
+Winning Post 8 2016,Simulation,0.0,0.0,0.03,0.0,0.03,0.0
+Dragon's Dogma Online: Season 2,Action,0.0,0.0,0.03,0.0,0.03,0.0
+Coven and Labyrinth of Refrain,Action,0.01,0.0,0.01,0.0,0.03,0.0
+Super Dungeon Bros,Action,0.02,0.0,0.0,0.01,0.03,0.0
+Blade Arcus from Shining EX,Fighting,0.0,0.0,0.03,0.0,0.03,0.0
+Troll and I,Action,0.02,0.0,0.0,0.01,0.03,0.0
+The Pillars of the Earth,Adventure,0.02,0.0,0.0,0.01,0.03,0.0
+The Lost Child,Action,0.01,0.0,0.01,0.0,0.03,0.0
+Romance of the Three Kingdoms 13 with Power-Up Kit,Misc,0.0,0.0,0.03,0.0,0.03,0.0
+Koihime Enbu,Fighting,0.0,0.0,0.03,0.0,0.03,0.0
+Road Rage,Racing,0.02,0.0,0.0,0.01,0.03,0.0
+Winning Post 8 2017,Misc,0.0,0.0,0.03,0.0,0.03,0.0
+Dino Dini's Kick Off Revival,Sports,0.0,0.02,0.0,0.0,0.03,0.0
+God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,Misc,0.0,0.0,0.03,0.0,0.03,0.0
+Tumblestone,Puzzle,0.02,0.0,0.0,0.01,0.03,0.0
+Blackguards 2,Strategy,0.02,0.0,0.0,0.01,0.03,0.0
+Baja: Edge of Control HD,Racing,0.02,0.0,0.0,0.01,0.03,0.0
+Crows: Burning Edge,Action,0.0,0.0,0.03,0.0,0.03,0.0
+Geometry Wars 3: Dimensions Evolved,Action,0.02,0.0,0.0,0.01,0.03,0.0
+We Sing (2016),Music,0.02,0.0,0.0,0.01,0.03,0.0
+Shin Hayarigami 2,Adventure,0.0,0.0,0.03,0.0,0.03,0.0
+The Town of Light,Adventure,0.02,0.0,0.0,0.01,0.03,0.0
+OlliOlli: Epic Combo Edition,Platform,0.02,0.0,0.0,0.01,0.03,0.0
+Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,Fighting,0.0,0.0,0.03,0.0,0.03,0.0
+This War of Mine,Action,0.0,0.02,0.0,0.0,0.03,0.0
+Ao no Kanata no Four Rhythm,Visual Novel,0.0,0.0,0.03,0.0,0.03,0.0
+Zero Escape: Zero Time Dilemma,Adventure,0.02,0.0,0.0,0.0,0.03,0.0
+AereA,Role-Playing,0.02,0.0,0.0,0.0,0.03,0.0
+Root Letter,Visual Novel,0.0,0.0,0.03,0.0,0.03,0.0
+ClaDun Sengoku,Action,0.02,0.0,0.0,0.0,0.03,0.0
+The Girl and the Robot,Action-Adventure,0.02,0.0,0.0,0.0,0.03,0.0
+Omega Quintet,Role-Playing,0.0,0.0,0.02,0.0,0.03,0.0
+Touhou Kobuto V: Burst Battle,Shooter,0.02,0.0,0.0,0.0,0.03,0.0
+God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,Action,0.0,0.0,0.02,0.0,0.02,0.0
+Rugby League Live 3,Sports,0.0,0.02,0.0,0.0,0.02,0.0
+Omega Labyrinth Z,Role-Playing,0.0,0.0,0.02,0.0,0.02,0.0
+Lost Sphear,Role-Playing,0.0,0.0,0.02,0.0,0.02,0.0
+Superbeat: Xonic,Music,0.02,0.0,0.0,0.0,0.02,0.0
+Republique,Action-Adventure,0.0,0.01,0.01,0.0,0.02,0.0
+Super Stardust Ultra VR,Shooter,0.0,0.02,0.0,0.0,0.02,0.0
+Redout,Racing,0.02,0.0,0.0,0.0,0.02,0.0
+Resident Evil: Value Pack,Action-Adventure,0.0,0.0,0.02,0.0,0.02,0.0
+God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,Action,0.0,0.0,0.02,0.0,0.02,0.0
+PaRappa the Rapper Remastered,Music,0.0,0.0,0.02,0.0,0.02,0.0
+Earth's Dawn,Action,0.02,0.0,0.0,0.0,0.02,0.0
+Big Buck Hunter Arcade,Shooter,0.02,0.0,0.0,0.0,0.02,0.0
+Dungeons 2,Role-Playing,0.02,0.0,0.0,0.0,0.02,0.0
+Tricky Towers,Puzzle,0.02,0.0,0.0,0.0,0.02,0.0
+ No Heroes Allowed! VR,Strategy,0.0,0.0,0.02,0.0,0.02,0.0
+ArmaGallant: Decks of Destiny,Strategy,0.02,0.0,0.0,0.0,0.02,0.0
+Carmageddon: Max Damage,Action,0.02,0.0,0.0,0.0,0.02,0.0
+Armello,Strategy,0.02,0.0,0.0,0.0,0.02,0.0
+Shaq-Fu: A Legend Reborn,Action,0.02,0.0,0.0,0.0,0.02,0.0
+Patapon Remastered,Music,0.0,0.0,0.02,0.0,0.02,0.0
+Monster Hunter Frontier Z: Beginner's Package,Action,0.0,0.0,0.02,0.0,0.02,0.0
+Professional Farmer 2016,Simulation,0.0,0.02,0.0,0.0,0.02,0.0
+Natsuiro High School: Seishun Hakusho,Action,0.0,0.0,0.02,0.0,0.02,0.0
+The Inner World: The Last Wind Monk,Puzzle,0.02,0.0,0.0,0.0,0.02,0.0
+SteamWorld Collection,Misc,0.02,0.0,0.0,0.0,0.02,0.0
+Konoyo no Hate de Koi o Utau Shoujo: Yu-No,Visual Novel,0.0,0.0,0.02,0.0,0.02,0.0
+God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6,Misc,0.0,0.0,0.02,0.0,0.02,0.0
+Genkai Tokki: Castle Panzers,Role-Playing,0.0,0.0,0.02,0.0,0.02,0.0
+Skullgirls: 2nd Encore,Fighting,0.0,0.0,0.02,0.0,0.02,0.0
+This Is The Police,Simulation,0.01,0.0,0.0,0.0,0.02,0.0
+Rabbids Invasion: The Interactive TV Show,Misc,0.0,0.01,0.0,0.0,0.02,0.0
+FlatOut 4: Total Insanity,Racing,0.01,0.0,0.0,0.0,0.02,0.0
+Chaos;Child,Visual Novel,0.0,0.0,0.02,0.0,0.02,0.0
+Touhou Shinhiroku: Urban Legend in Limbo,Fighting,0.0,0.0,0.02,0.0,0.02,0.0
+Rogue Trooper: Redux,Shooter,0.01,0.0,0.0,0.0,0.02,0.0
+Space Hulk: Deathwing,Shooter,0.0,0.01,0.0,0.0,0.02,0.0
+Pharaonic,Action,0.01,0.0,0.0,0.0,0.02,0.0
+White Day,Action,0.0,0.01,0.01,0.0,0.02,0.0
+Torment: Tides of Numenera,Role-Playing,0.01,0.0,0.0,0.0,0.01,0.0
+Let It Die,Action,0.0,0.01,0.01,0.0,0.01,0.0
+ Summer Lesson: Miyamoto Hikari Collection,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Raven's Cry,Role-Playing,0.0,0.01,0.0,0.0,0.01,0.0
+New Game! The Challenge Stage!,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Hakoniwa Company Works,Strategy,0.0,0.0,0.01,0.0,0.01,0.0
+DJ Max Respect,Misc,0.0,0.0,0.01,0.0,0.01,0.0
+Battle Worlds: Kronos,Strategy,0.01,0.0,0.0,0.0,0.01,0.0
+Dragon's Dogma Online: Season 3,Role-Playing,0.0,0.0,0.01,0.0,0.01,0.0
+Occultic;Nine,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Battle Garegga Rev.2016,Strategy,0.0,0.0,0.01,0.0,0.01,0.0
+Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Farming 2017 - The Simulation,Simulation,0.0,0.01,0.0,0.0,0.01,0.0
+Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Zombie Vikings,Action,0.0,0.01,0.0,0.0,0.01,0.0
+ATV Renegades,Racing,0.01,0.0,0.0,0.0,0.01,0.0
+Ziggurat,Shooter,0.0,0.01,0.0,0.0,0.01,0.0
+Chaos;Child: Love Chu Chu!!,Visual Novel,0.0,0.0,0.01,0.0,0.01,0.0
+Moto Racer 4,Racing,0.01,0.0,0.0,0.0,0.01,0.0
+LocoRoco Remastered,Platform,0.0,0.0,0.01,0.0,0.01,0.0
+Lock's Quest,Strategy,0.01,0.0,0.0,0.0,0.01,0.0
+Gal Gun: Double Peace,Action,0.0,0.0,0.01,0.0,0.01,0.0
+Woodcutter Simulator 2016,Action,0.0,0.01,0.0,0.0,0.01,0.0
+Akiba's Trip 2+A,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Date-A-Live Twin Edition: Rio Reincarnation,Adventure,0.0,0.0,0.01,0.0,0.01,0.0
+Valhalla Hills,Strategy,0.01,0.0,0.0,0.0,0.01,0.0
+Deception IV: Blood Ties,Action,0.0,0.0,0.01,0.0,0.01,0.0
+One Piece: Unlimited World Red,Action,0.0,0.0,0.01,0.0,0.01,0.0
+Hyper Light Drifter,Role-Playing,0.0,0.0,0.01,0.0,0.01,0.0
+Teslagrad,Platform,0.0,0.01,0.0,0.0,0.01,0.0
+Darius Burst: Chronicle Saviours,Action,0.0,0.0,0.01,0.0,0.01,0.0
+The Escapists: The Walking Dead,Action,0.0,0.0,0.0,0.0,0.01,0.0
+Super Meat Boy,Platform,0.0,0.0,0.0,0.0,0.01,0.0
+,,,,,,,
