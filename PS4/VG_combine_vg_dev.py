@@ -3,7 +3,6 @@
 ## script to merge multiple datasets into single dataframe for analysis
 
 # load necessary packages
-import csv
 import sys
 import pandas as pd 
 import numpy as np
