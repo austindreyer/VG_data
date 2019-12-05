@@ -1,3 +1,5 @@
+## last updated 12/5/19
+
 ## script to combine curated vg data with sales data into single dataframe
 
 
