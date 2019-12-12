@@ -1,8 +1,8 @@
 ## last updated 10/30/19
 
-# script to collect video game sales for PS4 games
+# Script to collect video game sales for PS4 games
 
-# first need to import packages required for ProcessLookupError
+# First need to import packages required for ProcessLookupError
 import re
 import pandas as pd
 import tkinter as tk
@@ -17,42 +17,42 @@ from warnings import warn
 
 url = "http://www.vgchartz.com/platform/69/playstation-4/"
 
-# demonstrate extraction of webpage
+# Demonstrate extraction of webpage
 response = get(url)
 print(response.text[:500])
 
-# extract data using beautifulsoup
+# Extract data using beautifulsoup
 soup = BeautifulSoup(response.text, 'html.parser')
 
 vg_containers = soup.find_all('tr')
 
-# confirm the successful extraction of desired details
+# Confirm the successful extraction of desired details
 # video game name
 first_name = vg_containers[1].find_all('td', limit=3)[-1]
 first_name_txt = ''.join(first_dev.find('a').contents[0])
 
-# genre
+# Genre
 first_genre = vg_containers[1].find_all('td', limit=4)[-1].text
 
-# north america sales
+# North america sales
 na_sales = vg_containers[1].find_all('td', limit=6)[-1].text
 
-# europe sales
+# Europe sales
 eu_sales = vg_containers[1].find_all('td', limit=7)[-1].text
 
-# japan sales
+# Japan sales
 j_sales = vg_containers[1].find_all('td', limit=8)[-1].text
 
-# rest of world sales 
+# Rest of world sales 
 rest_sales = vg_containers[1].find_all('td', limit=9)[-1].text
 
-# total sales
+# Total sales
 tot_sales = vg_containers[1].find_all('td', limit=10)[-1].text
 #print(tot_sales)
 
-### scrape the sales page for PS4 video games
+### Scrape the sales page for PS4 video games
 
-# create empty lists to fill with scraped data
+# Create empty lists to fill with scraped data
 names = []
 genres = []
 northamers= []
@@ -61,7 +61,7 @@ japans = []
 rests = []
 worlds = []
 
-# extract data from individual entries
+# Extract data from individual entries
 for entry in vg_containers[1:2]:
 	try:
 		# game name
@@ -96,7 +96,7 @@ for entry in vg_containers[1:2]:
 	except:
 		continue 
 
-# create dataframe of output
+# Create dataframe of output
 gamesales_df = pd.DataFrame({
 	'vg_name': names,
 	'genre': genress,
@@ -104,15 +104,14 @@ gamesales_df = pd.DataFrame({
 	'EU_sales': europes,
 	'Japan_sales': japans,
 	'Nonspec_sales': rests,
-	'Tot_sales': worlds
-		
+	'Tot_sales': worlds	
 })
 
-# assign column names
+# Assign column names
 gamesales_df = gamesales_df[['vg_name','genre','NA_sales','EU_sales','Japan_sales', 'Nonspec_sales', 'Tot_sales']]
 
-# check the details of dataframe
+# Check the details of dataframe
 gamesales_df.info()
 
-# export shiny new data
+# Export shiny new data
 gamesales_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/VG_data/PS4/ps4_videogame_sales.csv', index = None, header = True)

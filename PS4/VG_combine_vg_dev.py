@@ -1,43 +1,44 @@
 ## last updated 11/19/19
 
-## script to merge multiple datasets into single dataframe for analysis
+## Script to merge multiple datasets into single dataframe for analysis
 
-# load necessary packages
+# Load necessary packages
 import sys
 import pandas as pd 
 import numpy as np
 from fuzzywuzzy import fuzz
 
-# read in the csv of video game data
+# Read in the csv of video game data
 vg_csv = pd.read_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_scores_nodup.csv")
 vg_devs = pd.read_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_devs.csv")
 
-# and confirm they were read in as a dataframes
+# And confirm they were read in as a dataframes
 isinstance(vg_csv, pd.DataFrame)
 isinstance(vg_devs, pd.DataFrame)
 
-# create new data frame that merges the two existing based on developer name
+# Create new data frame that merges the two existing based on developer name
 vg_data = vg_csv.merge(vg_devs, how = 'left')
 
-# inspect new data frame
+# Inspect new data frame
 vg_data.head()
 
 
-# remove rows without a matching developer
+# Remove rows without a matching developer
 vg_nonan = vg_data.dropna()
 
-# inspect new data frame 
+# Inspect new data frame 
 vg_nonan.head()
 
-# check the length of the merged data frame as compared to original
+# Check the length of the merged data frame as compared to original
 len(vg_data.index)-len(vg_nonan.index)
 
 
-# given the extreme loss of data based on matching of developer name, try to introduce fuzzy matching to 
+# Given the extreme loss of data based on matching of developer name, try to introduce fuzzy matching to 
 # enable partial developer name matches to count for merging 
 # to do so, need a function to match strings using fuzzywuzzy (added package install to start)
 
 def match_name(name, list_names, min_score=0):
+    '''Function to find names that are close matches to one another'''
     # start with -1 score in case no matches
     max_score = -1
     # empty name for in case of no match as well
@@ -53,10 +54,10 @@ def match_name(name, list_names, min_score=0):
     return (max_name, max_score)
 
 
-# need to generate dataframe of just the rows with missing values to fuzzy match
+# Need to generate dataframe of just the rows with missing values to fuzzy match
 vg_nans = vg_data[pd.isnull(vg_data['status'])]
 
-# confirm the correct number of rows in NaNs table as it should match the difference
+# Confirm the correct number of rows in NaNs table as it should match the difference
 # in dataframe lengths found above
 len(vg_nans.index)
 
@@ -68,11 +69,11 @@ vg_nans.head()
 vg_devs.head()
 
 
-# then use the function to test matching names starting 
+# Then use the function to test matching names starting 
 # with an empty list to store outputs
 match_list = []
 
-# use 
+# Find name matches
 for name in vg_nans.developer:
     # use function to find best match, set threshold for strength of match (0-100)
     match = match_name(name, vg_devs.developer, 50)
@@ -86,71 +87,71 @@ for name in vg_nans.developer:
     
 vg_match = pd.DataFrame(match_list)
 
-# show results that have a match >50
+# Show results that have a match >50
 vg_match[vg_match['score'] >50]
 
-# check for increase match threshold to avoid non informative matches like only the word "Studios"
+# Check for increase match threshold to avoid non informative matches like only the word "Studios"
 vg_98 = vg_match[vg_match['score'] >98]
 vg_98.head()
 
-# and check how many entries exist for fuzzy matched names
+# And check how many entries exist for fuzzy matched names
 vg_index = list(vg_98.index.values)
 len(vg_index)
 
 
-# confirm the only developers left with that include "Studios" have multiple word matches
+# Confirm the only developers left with that include "Studios" have multiple word matches
 studio_devs = vg_98[vg_98['dev_match'].str.contains("Studio")]
-# set viewer to allow inspection of all rows (Jupyter notebook)
+# Set viewer to allow inspection of all rows (Jupyter notebook)
 #pd.set_option('display.max_rows', 500)
-# view output
+# View output
 studio_devs
 
 
-# now, need to go back to original dataframe and replace the old developer names with the
+# Now, need to go back to original dataframe and replace the old developer names with the
 # corrected names that have the additional data associated. To do this, will use the dataframe
 # vg_98 as a dictionary to replace Developer column in original dataframe
 
-# create copy of original vg_csv data "Developer" column to replace values
+# Create copy of original vg_csv data "Developer" column to replace values
 df1 = pd.DataFrame(vg_csv.developer, columns = ['developer'])
 
-# replace the names of df1 using the dictionary of vg_98
+# Replace the names of df1 using the dictionary of vg_98
 df1['developer'] = df1['developer'].replace(vg_98.set_index('dev_name')['dev_match'].dropna())
 
-# compare the original Developer names with the updated ones
+# Compare the original Developer names with the updated ones
 pd.concat([vg_csv.developer, df1], axis=1, keys=['old', 'new'])
 
-# replace the original Developer column of vg_csv with corrected matched column
+# Replace the original Developer column of vg_csv with corrected matched column
 
 vg_csv['developer'] = df1['developer']
 
 vg_csv.head()
 
-# re-join the modified dataframe with the developer dataframe
+# Re-join the modified dataframe with the developer dataframe
 vg_data_fin = vg_csv.merge(vg_devs, how = 'left')
 
-# remove the NaNs from the data set
+# Remove the NaNs from the data set
 vg_data_fin = vg_data_fin.dropna()
 
-# check the number of entries in final dataframe, should match the sum of lengths of originally 
+# Check the number of entries in final dataframe, should match the sum of lengths of originally 
 # joined table (vg_nonan) and the vg_98 table
 len(vg_data_fin.index) == sum([len(vg_nonan.index),len(vg_98.index)])
 
-# need to reindex dataframe having removed rows
+# Need to reindex dataframe having removed rows
 vg_data_fin = vg_data_fin.reset_index(drop=True)
 
-# last check, look at year_released for correctness by viewing all unique entries
+# Last check, look at year_released for correctness by viewing all unique entries
 set(vg_data_fin.year_released)
 
-# inspect odd entries sequentially (e.g. 'Inc.', 'na')
+# Inspect odd entries sequentially (e.g. 'Inc.', 'na')
 vg_data_fin[vg_data_fin['year_released'].str.contains("na")]
 
-# and replace as necessary using index
+# And replace as necessary using index
 vg_data_fin.iat[823,2] = '2017'
 
-# note above, despite years for PS4 relaese prior to when the system was released (<2013) 
+# Note above, despite years for PS4 relaese prior to when the system was released (<2013) 
 # leave them as it is the time the game first was released, reflecting it's development time
 # more accurately
 
-# write the corrected csv with added developer details as a csv
+# Write the corrected csv with added developer details as a csv
 vg_data_fin.to_csv("/Users/austindreyer/Documents/Python/Python_VideoGame_Project/ps4_videogame_data_dev.csv", index = False, header = True)
 

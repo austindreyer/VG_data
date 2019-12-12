@@ -1,8 +1,8 @@
 ## last updated 11/13/19
 
-# script to collect video game scores for PS4 games
+# Script to collect video game scores for PS4 games
 
-# first need to import packages required 
+# First need to import packages required 
 import re
 import pandas as pd
 import tkinter as tk
@@ -26,11 +26,11 @@ print(devs_df)
 
 #df.head()
 
-# demonstrate extraction of webpage
+# Demonstrate extraction of webpage
 response = get(url)
 #print(response.text[:500])
 
-# extract data using beautifulsoup
+# Extract data using beautifulsoup
 soup = BeautifulSoup(response.text, 'html.parser')
 #print(type(html_soup))
 
@@ -44,13 +44,13 @@ soup = BeautifulSoup(response.text, 'html.parser')
 #vg_containers = soup.find_all('table', attrs={'class': 'wikitable sortable'})
 #print(len(vg_containers))
 
-# create empty lists to store developer status info
+# Create empty lists to store developer status info
 status = []
 
-# extract all of the trs from the table, including those without style stipulated
+# Extract all of the trs from the table, including those without style stipulated
 trs = soup.find("table", class_="wikitable sortable").find_all("tr")
 
-# populate the status list with the actual style guide for each row, recognizing the 
+# Populate the status list with the actual style guide for each row, recognizing the 
 # different possibilities represent the developer status
 for tr in trs[1:]:
 	try:
@@ -60,14 +60,14 @@ for tr in trs[1:]:
 
 	status.append(stat)
 
-# repopulate status list using list comprehension to make the colors of each row explicit 
+# Repopulate status list using list comprehension to make the colors of each row explicit 
 # for the status of the developer
 status = ['Subsidiary' if x=='background:#c9daff;' else 'Defunct' if x=='background:#ffe8a9;' else 'Independent' for x in status]
 
-# add Status column to the original developer data frame
+# Add Status column to the original developer data frame
 devs_df= devs_df.assign(Status=status)
 
 print(devs_df.head())
 
-# export shiny new data
-#devs_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_devs.csv', index = None, header = True)
+# Export shiny new data
+devs_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/videogame_devs.csv', index = None, header = True)

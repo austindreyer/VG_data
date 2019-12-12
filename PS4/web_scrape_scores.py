@@ -1,11 +1,11 @@
 ## last updated 11/10/19
 
-## use following path to work through anaconda install of python:
+## Use following path to work through anaconda install of python:
 	# /Users/austindreyer/anaconda3/bin/python $filename
 
-# script to collect video game scores for PS4 games
+# Script to collect video game scores for PS4 games
 
-# first need to import packages required for ProcessLookupError
+# First need to import packages required for ProcessLookupError
 import re
 import pandas as pd
 import tkinter as tk
@@ -20,11 +20,11 @@ from warnings import warn
 
 url = "https://www.gamerankings.com/browse.html?site=ps4&cat=0&year=0&numrev=2&sort=2&letter=A&search="
 
-# demonstrate extraction of webpage
+# Demonstrate extraction of webpage
 response = get(url)
 #print(response.text[:500])
 
-# extract data using beautifulsoup
+# Extract data using beautifulsoup
 soup = BeautifulSoup(response.text, 'html.parser')
 #print(type(html_soup))
 
@@ -49,23 +49,23 @@ first_rev_num = float(first_reviews.split(' ')[0])
 
 
 
-### scrape the first page for PS4 video game reviews 
+### Scrape the first page for PS4 video game reviews 
 
-# create empty lists to fill with scraped data
+# Create empty lists to fill with scraped data
 names = []
 developers = []
 years = []
 scores = []
 reviews = []
 
-# create loop for full data scraping
+# Create loop for full data scraping
 pages = [str(i) for i in range(0,55)]
 
-# set up the loop monitoring
+# Set up the loop monitoring
 start_time = time()
 requests = 0
 
-# loop over all pages
+# Loop over all pages
 for page in pages:
 	
 	# make a request for each page
@@ -126,7 +126,7 @@ for page in pages:
 		review = float(first_reviews.split(' ')[0])
 		reviews.append(review)
 	
-# look at output
+# Look at output
 gamescores_df = pd.DataFrame({
 	'vg_name': names,
 	'developer': developers,
@@ -138,5 +138,5 @@ gamescores_df = gamescores_df[['vg_name','developer','year_released','avg_score'
 
 print(gamescores_df.info())
 
-# export shiny new data
+# Export shiny new data
 gamescores_df.to_csv(r'/Users/austindreyer/Documents/Python/Python_VideoGame_Project/ps4_videogame_scores.csv', index = None, header = True)
